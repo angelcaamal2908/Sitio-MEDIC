@@ -4,7 +4,7 @@ let carrito = [];
 
 // Variables de Paginación
 let paginaActual = 1;
-const productosPorPagina = 12; // Aumenté a 12 para que sea más cómodo navegar con tantos productos
+const productosPorPagina = 12; 
 
 // --- 1. CARGA DEL JSON ---
 async function cargarInventario() {
@@ -56,6 +56,7 @@ function aplicarFiltros(reiniciarPagina = false) {
 
     const productosFiltrados = productos.filter(prod => {
         const coincideCategoria = categoriaActual === 'todos' || prod.categoriaFiltro === categoriaActual;
+        // La marca sigue existiendo en el buscador invisible, por si alguien busca "PharmaPOS", pero ya no se ve en pantalla.
         const coincideTexto = prod.nombre.toLowerCase().includes(textoBusqueda) || 
                               prod.marca.toLowerCase().includes(textoBusqueda) ||
                               prod.categoriaReal.toLowerCase().includes(textoBusqueda);
@@ -85,8 +86,7 @@ function aplicarFiltros(reiniciarPagina = false) {
 
         card.innerHTML = `
             <div style="margin-bottom: 15px;">${badgeHTML}</div>
-            <h3 style="margin: 0 0 10px 0; font-size: 1.15rem; color: #0f172a;">${prod.nombre}</h3>
-            <p style="color: #64748b; font-size: 0.9rem; flex-grow: 1;"><i class="fa-solid fa-building" style="color: #cbd5e1; margin-right: 5px;"></i> ${prod.marca}</p>
+            <h3 style="margin: 0 0 15px 0; font-size: 1.15rem; color: #0f172a; flex-grow: 1; line-height: 1.3;">${prod.nombre}</h3>
             <button class="btn-add-cart" onclick="agregarAlCarrito(${prod.id}, '${nombreLimpio}')"><i class="fa-solid fa-cart-plus"></i> Añadir</button>
         `;
         grid.appendChild(card);
@@ -102,7 +102,6 @@ function renderizarPaginacion(totalProductos) {
     const totalPaginas = Math.ceil(totalProductos / productosPorPagina);
     if (totalPaginas <= 1) return; 
 
-    // Botón Anterior
     const btnPrev = document.createElement('button');
     btnPrev.className = 'page-btn';
     btnPrev.innerHTML = '<i class="fa-solid fa-chevron-left"></i>';
@@ -110,14 +109,12 @@ function renderizarPaginacion(totalProductos) {
     btnPrev.onclick = () => { paginaActual--; aplicarFiltros(); document.getElementById('inicio-catalogo').scrollIntoView(); };
     container.appendChild(btnPrev);
 
-    // Lógica para mostrar solo algunas páginas (Smart Pagination)
     let inicioPagina = Math.max(1, paginaActual - 2);
     let finPagina = Math.min(totalPaginas, paginaActual + 2);
 
     if (paginaActual <= 3) { finPagina = Math.min(5, totalPaginas); }
     if (paginaActual >= totalPaginas - 2) { inicioPagina = Math.max(1, totalPaginas - 4); }
 
-    // Primera página y puntos suspensivos
     if (inicioPagina > 1) {
         crearBotonPagina(1, container);
         if (inicioPagina > 2) {
@@ -128,12 +125,10 @@ function renderizarPaginacion(totalProductos) {
         }
     }
 
-    // Páginas intermedias
     for (let i = inicioPagina; i <= finPagina; i++) {
         crearBotonPagina(i, container);
     }
 
-    // Última página y puntos suspensivos
     if (finPagina < totalPaginas) {
         if (finPagina < totalPaginas - 1) {
             const ellipsis = document.createElement('span');
@@ -144,7 +139,6 @@ function renderizarPaginacion(totalProductos) {
         crearBotonPagina(totalPaginas, container);
     }
 
-    // Botón Siguiente
     const btnNext = document.createElement('button');
     btnNext.className = 'page-btn';
     btnNext.innerHTML = '<i class="fa-solid fa-chevron-right"></i>';
@@ -256,7 +250,6 @@ function descargarPedidoImagen() {
     const fecha = new Date().toLocaleDateString('es-MX', { year: 'numeric', month: 'long', day: 'numeric' });
     const hora = new Date().toLocaleTimeString('es-MX', { hour: '2-digit', minute:'2-digit' });
 
-    // Encabezados de la tabla del ticket
     let itemsHTML = `
         <div style="display: flex; justify-content: space-between; border-bottom: 2px solid #cbd5e1; padding-bottom: 10px; margin-bottom: 15px; font-weight: bold; color: #64748b; font-size: 0.85rem; letter-spacing: 1px;">
             <span style="width: 60px; text-align: center;">CANT.</span>
