@@ -4,7 +4,7 @@ let carrito = [];
 
 // Variables de Paginación
 let paginaActual = 1;
-const productosPorPagina = 8; 
+const productosPorPagina = 12; // Aumenté a 12 para que sea más cómodo navegar con tantos productos
 
 // --- 1. CARGA DEL JSON ---
 async function cargarInventario() {
@@ -31,8 +31,8 @@ async function cargarInventario() {
         console.error("Error al cargar el inventario:", error);
         document.getElementById('product-grid').innerHTML = `
             <div style="grid-column: 1 / -1; text-align: center; padding: 40px;">
-                <h3 style="color: #ef4444;">Error de carga</h3>
-                <p>Asegúrate de estar usando un servidor local (Live Server) para leer el archivo inventario_export.json.</p>
+                <h3 style="color: #ef4444;">Cargando catálogo...</h3>
+                <p>Si este mensaje no desaparece, asegúrate de haber subido el archivo inventario_export.json a GitHub.</p>
             </div>`;
     }
 }
@@ -80,11 +80,14 @@ function aplicarFiltros(reiniciarPagina = false) {
         const card = document.createElement('div');
         card.className = 'card';
         card.style.animationDelay = `${index * 0.05}s`;
+        
+        const nombreLimpio = prod.nombre.replace(/'/g, "\\'").replace(/"/g, '\\"');
+
         card.innerHTML = `
             <div style="margin-bottom: 15px;">${badgeHTML}</div>
             <h3 style="margin: 0 0 10px 0; font-size: 1.15rem; color: #0f172a;">${prod.nombre}</h3>
             <p style="color: #64748b; font-size: 0.9rem; flex-grow: 1;"><i class="fa-solid fa-building" style="color: #cbd5e1; margin-right: 5px;"></i> ${prod.marca}</p>
-            <button class="btn-add-cart" onclick="agregarAlCarrito(${prod.id}, '${prod.nombre.replace(/'/g, "\\'")}')"><i class="fa-solid fa-cart-plus"></i> Añadir</button>
+            <button class="btn-add-cart" onclick="agregarAlCarrito(${prod.id}, '${nombreLimpio}')"><i class="fa-solid fa-cart-plus"></i> Añadir</button>
         `;
         grid.appendChild(card);
     });
@@ -92,12 +95,14 @@ function aplicarFiltros(reiniciarPagina = false) {
     renderizarPaginacion(productosFiltrados.length);
 }
 
+// --- PAGINACIÓN INTELIGENTE ---
 function renderizarPaginacion(totalProductos) {
     const container = document.getElementById('pagination-controls');
     container.innerHTML = '';
     const totalPaginas = Math.ceil(totalProductos / productosPorPagina);
     if (totalPaginas <= 1) return; 
 
+    // Botón Anterior
     const btnPrev = document.createElement('button');
     btnPrev.className = 'page-btn';
     btnPrev.innerHTML = '<i class="fa-solid fa-chevron-left"></i>';
@@ -105,20 +110,55 @@ function renderizarPaginacion(totalProductos) {
     btnPrev.onclick = () => { paginaActual--; aplicarFiltros(); document.getElementById('inicio-catalogo').scrollIntoView(); };
     container.appendChild(btnPrev);
 
-    for (let i = 1; i <= totalPaginas; i++) {
-        const btnNum = document.createElement('button');
-        btnNum.className = `page-btn ${paginaActual === i ? 'active' : ''}`;
-        btnNum.innerText = i;
-        btnNum.onclick = () => { paginaActual = i; aplicarFiltros(); document.getElementById('inicio-catalogo').scrollIntoView(); };
-        container.appendChild(btnNum);
+    // Lógica para mostrar solo algunas páginas (Smart Pagination)
+    let inicioPagina = Math.max(1, paginaActual - 2);
+    let finPagina = Math.min(totalPaginas, paginaActual + 2);
+
+    if (paginaActual <= 3) { finPagina = Math.min(5, totalPaginas); }
+    if (paginaActual >= totalPaginas - 2) { inicioPagina = Math.max(1, totalPaginas - 4); }
+
+    // Primera página y puntos suspensivos
+    if (inicioPagina > 1) {
+        crearBotonPagina(1, container);
+        if (inicioPagina > 2) {
+            const ellipsis = document.createElement('span');
+            ellipsis.innerText = '...';
+            ellipsis.style.color = '#94a3b8';
+            container.appendChild(ellipsis);
+        }
     }
 
+    // Páginas intermedias
+    for (let i = inicioPagina; i <= finPagina; i++) {
+        crearBotonPagina(i, container);
+    }
+
+    // Última página y puntos suspensivos
+    if (finPagina < totalPaginas) {
+        if (finPagina < totalPaginas - 1) {
+            const ellipsis = document.createElement('span');
+            ellipsis.innerText = '...';
+            ellipsis.style.color = '#94a3b8';
+            container.appendChild(ellipsis);
+        }
+        crearBotonPagina(totalPaginas, container);
+    }
+
+    // Botón Siguiente
     const btnNext = document.createElement('button');
     btnNext.className = 'page-btn';
     btnNext.innerHTML = '<i class="fa-solid fa-chevron-right"></i>';
     btnNext.disabled = paginaActual === totalPaginas;
     btnNext.onclick = () => { paginaActual++; aplicarFiltros(); document.getElementById('inicio-catalogo').scrollIntoView(); };
     container.appendChild(btnNext);
+}
+
+function crearBotonPagina(num, container) {
+    const btn = document.createElement('button');
+    btn.className = `page-btn ${paginaActual === num ? 'active' : ''}`;
+    btn.innerText = num;
+    btn.onclick = () => { paginaActual = num; aplicarFiltros(); document.getElementById('inicio-catalogo').scrollIntoView(); };
+    container.appendChild(btn);
 }
 
 // --- 3. FUNCIONES DEL CARRITO ---
@@ -196,63 +236,71 @@ function cerrarCarrito() {
     setTimeout(() => modal.style.display = 'none', 300);
 }
 
-// --- 4. NUEVA FUNCIÓN: GENERAR TICKET EN IMAGEN ---
+// --- 4. TICKET EN IMAGEN REDISEÑADO ---
 function descargarPedidoImagen() {
     if (carrito.length === 0) { mostrarToast("Agrega productos primero"); return; }
     
-    mostrarToast("Generando imagen...");
+    mostrarToast("Generando ticket...");
 
-    // 1. Creamos un "Ticket" virtual (Oculto en el fondo para que el usuario no lo vea)
     const ticket = document.createElement('div');
-    ticket.style.width = '350px';
-    ticket.style.padding = '30px';
+    ticket.style.width = '400px';
+    ticket.style.padding = '40px 30px';
     ticket.style.background = '#ffffff';
     ticket.style.color = '#0f172a';
     ticket.style.fontFamily = 'Inter, sans-serif';
     ticket.style.position = 'fixed'; 
     ticket.style.top = '0';
     ticket.style.left = '0';
-    ticket.style.zIndex = '-1000'; // Detrás de todo
+    ticket.style.zIndex = '-1000'; 
     
-    const fecha = new Date().toLocaleDateString('es-MX');
+    const fecha = new Date().toLocaleDateString('es-MX', { year: 'numeric', month: 'long', day: 'numeric' });
+    const hora = new Date().toLocaleTimeString('es-MX', { hour: '2-digit', minute:'2-digit' });
 
-    let itemsHTML = '';
+    // Encabezados de la tabla del ticket
+    let itemsHTML = `
+        <div style="display: flex; justify-content: space-between; border-bottom: 2px solid #cbd5e1; padding-bottom: 10px; margin-bottom: 15px; font-weight: bold; color: #64748b; font-size: 0.85rem; letter-spacing: 1px;">
+            <span style="width: 60px; text-align: center;">CANT.</span>
+            <span style="flex-grow: 1; text-align: left; padding-left: 15px;">DESCRIPCIÓN DEL PRODUCTO</span>
+        </div>
+    `;
+
     carrito.forEach(item => {
         itemsHTML += `
-        <div style="display: flex; justify-content: space-between; margin-bottom: 12px; border-bottom: 1px dashed #e2e8f0; padding-bottom: 8px;">
-            <span style="font-weight: bold; color: #2563eb; width: 30px;">${item.cantidad}x</span>
-            <span style="flex-grow: 1; font-size: 0.95rem;">${item.nombre}</span>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 12px; border-bottom: 1px dashed #e2e8f0; padding-bottom: 10px; align-items: center;">
+            <span style="font-weight: 900; color: #0f172a; background: #f1f5f9; padding: 4px 10px; border-radius: 6px; width: 40px; text-align: center;">${item.cantidad}</span>
+            <span style="flex-grow: 1; font-size: 0.95rem; font-weight: 500; padding-left: 15px; color: #1e293b; line-height: 1.3;">${item.nombre}</span>
         </div>`;
     });
 
     ticket.innerHTML = `
-        <div style="text-align: center; margin-bottom: 25px;">
-            <h2 style="margin: 0; color: #0f172a; font-size: 1.8rem;">AC Digital</h2>
-            <p style="margin: 5px 0 0 0; font-size: 1rem; color: #64748b;">Ticket de Pedido</p>
-            <p style="margin: 5px 0 0 0; font-size: 0.85rem; color: #94a3b8;">Fecha: ${fecha}</p>
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h1 style="margin: 0; color: #2563eb; font-size: 2.2rem; font-weight: 800; letter-spacing: -1px;">AC Digital</h1>
+            <h2 style="margin: 5px 0 0 0; font-size: 1.1rem; color: #475569; text-transform: uppercase; letter-spacing: 2px;">Ticket de Pedido</h2>
+            <p style="margin: 10px 0 0 0; font-size: 0.85rem; color: #94a3b8;"><i class="fa-regular fa-calendar"></i> ${fecha} &nbsp;|&nbsp; <i class="fa-regular fa-clock"></i> ${hora}</p>
         </div>
-        <div style="margin-bottom: 25px;">
+        
+        <div style="margin-bottom: 30px; background: #f8fafc; padding: 15px; border-radius: 8px;">
             ${itemsHTML}
         </div>
-        <div style="text-align: center; margin-top: 25px; padding-top: 15px; border-top: 2px solid #f1f5f9;">
-            <p style="margin: 0; font-size: 0.9rem; color: #64748b;">Por favor, envía esta imagen al WhatsApp:</p>
-            <p style="margin: 5px 0 0 0; font-weight: bold; color: #25D366; font-size: 1.2rem;">+52 986 108 0128</p>
+        
+        <div style="text-align: center; margin-top: 20px; padding-top: 25px; border-top: 2px solid #cbd5e1;">
+            <p style="margin: 0; font-size: 0.95rem; color: #475569; font-weight: 500;">Por favor, envía esta imagen por WhatsApp al:</p>
+            <p style="margin: 8px 0 0 0; font-weight: 900; color: #10b981; font-size: 1.6rem; letter-spacing: 1px;">
+                <i class="fa-brands fa-whatsapp"></i> 986 102 9065
+            </p>
+            <p style="margin: 15px 0 0 0; font-size: 0.8rem; color: #94a3b8;">¡Gracias por tu preferencia!</p>
         </div>
     `;
 
     document.body.appendChild(ticket);
 
-    // 2. Usamos html2canvas para tomarle la foto al ticket
     html2canvas(ticket, { scale: 2, backgroundColor: "#ffffff" }).then(canvas => {
-        // 3. Creamos el enlace de descarga invisible y le damos clic
         const link = document.createElement('a');
-        link.download = 'Pedido_AC_Digital.png';
+        link.download = 'Ticket_AC_Digital.png';
         link.href = canvas.toDataURL('image/png');
         link.click();
-
-        // 4. Limpiamos el DOM y avisamos al usuario
         document.body.removeChild(ticket);
-        mostrarToast("¡Imagen descargada!");
+        mostrarToast("¡Ticket descargado con éxito!");
         cerrarCarrito();
     }).catch(err => {
         console.error("Error generando la imagen", err);
