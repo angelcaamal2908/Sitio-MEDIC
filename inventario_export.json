@@ -1,0 +1,8266 @@
+[
+  {
+    "nombre": "Acanol",
+    "marca": "",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "ACECLOFENACO CREMA 60 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 84.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite Bebe 60ml Jaloma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite Bebe Jaloma 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite de Almendras 60ml Jaloma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite De Argan 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite De Coco 120 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite De Coco 60ml Jaloma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite De Eucalipto 120ml Jaloma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "ACEITE DE HIGADO DE BACALAO EPA / DHA SABOR PLATANO 240 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Multivitamínicos",
+    "stock": 0,
+    "precioVenta": 97.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite De Mosca 250ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite de Olivo 60ml Jaloma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite De Olivo Jaloma 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite De Palo 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite Mennen 100ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite Mennen 50ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite Mol",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 26,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite Ricino 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aceite Ricino 60ml Jaloma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "ACEITE SIMI BEBE FRASCO 120ML SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Bebés - Cuidado del Bebé",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "ACETILCISTEINA 200 MG 20 TABLETA EFERVESCENTE",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ACETILCISTEINA 600 MG 20 TABLETAS EFERVESCENTES",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 262.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Acetona Jaloma 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "ACICLOVIR 200 MG 25 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiviral",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "ACICLOVIR 400 MG 35 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiviral",
+    "stock": 0,
+    "precioVenta": 286.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ACICLOVIR 4GR/100ML SUSPENSION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiviral",
+    "stock": 0,
+    "precioVenta": 126.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ACICLOVIR 50MG/1GR CREMA 5 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 56,
+    "codigo": null
+  },
+  {
+    "nombre": "Acido Acetilsalicilico 500 Mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "ACIDO ASCORBICO / WELLMUNE 300/200MG POLVO EFERVESCENTE SABOR NARANJA 10 SOBRES",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Sistema inmune",
+    "stock": 0,
+    "precioVenta": 286.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ACIDO ASCORBICO 2 GR SABOR NARANJA 10 COMPRIMIDOS EFERVESCENTES",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Sistema inmune",
+    "stock": 0,
+    "precioVenta": 97.6,
+    "codigo": null
+  },
+  {
+    "nombre": "ACIDO FOLICO 5 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antianémico",
+    "stock": 0,
+    "precioVenta": 24,
+    "codigo": null
+  },
+  {
+    "nombre": "ACIDO FUSIDICO / BETAMETASONA 20/1MG CREMA 15 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 190.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ACIDO GLUTAMICO / GINKOBILOBA 60 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Memoria y rendimiento",
+    "stock": 0,
+    "precioVenta": 166.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Acortral Sertralina 50mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Actikroll Susp 250 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Adekals 3 Ampolletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aderogyl 4 Ampolletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 132,
+    "codigo": null
+  },
+  {
+    "nombre": "Aderogyl 5 Ampolletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 163,
+    "codigo": null
+  },
+  {
+    "nombre": "Aderogyl Inf Gotas 10ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "Aderogyl Infantil 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 175,
+    "codigo": null
+  },
+  {
+    "nombre": "Admidoxil 10 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Adrecort Dexamet. 0.5mg 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Adrecort Dexametasona 1mg 20tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Advil 200mg 10 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 62,
+    "codigo": null
+  },
+  {
+    "nombre": "Advil 200mg 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 56,
+    "codigo": null
+  },
+  {
+    "nombre": "Advil Max 400mg 10caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Afg 30 Caps Multivitaminico",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aflusil Susp 120ml Maracuya",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Afrin Adulto Spray",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Afrin No Drip De Niño 15 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Afrin No Dripcse",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Agrifen",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 32,
+    "codigo": null
+  },
+  {
+    "nombre": "AGRIFEN PARACETAMOL 500 MG / CAFEINA 25 MG / FENILEFRINA 5 MG / CLORFENAMINA 4 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 36.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Agua De Azahar 1L",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Agua De Azahar 250ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Agua De Azahar 500ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Agua De Florida 1 Litro",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Agua Oxigenada 112ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Agua Oxigenada 480ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aguja Capotera",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aguja De Mano",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aguja De Maquina 5pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aguja Maquina Singer 5pz",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alacranina 10 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "ALBENDAZOL 200 MG 6 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 20.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ALBENDAZOL SUSPENSION 20 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 11.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Alcanfor 4 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alcohol  500ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alcohol 1000ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alcohol 125 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alcohol 230",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 19,
+    "codigo": null
+  },
+  {
+    "nombre": "Alcohol Pharma Price 250ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alderan 50 Gramos 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "ALGESTONA / ESTRADIOL SOLUCION INYECTABLE 1 ML 1 AMPOLLETA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 86.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Algidol 600",
+    "marca": "",
+    "categoria": "General",
+    "stock": 989,
+    "precioVenta": 68,
+    "codigo": null
+  },
+  {
+    "nombre": "Algodon Jaloma 3gr 100pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Algodon pieza 3g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Algodon Plisado Quirmex 300g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Algodon Quirmex Plisado 100g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Algodon Quirmex Plisado 200g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Algodon Quirmex Plisado 25g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Algodon Quirmex Plisado 50g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alidol Gel 125ml Zuum",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alin 0.5mg Dexametasona 30 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alin 0.75",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 135,
+    "codigo": null
+  },
+  {
+    "nombre": "Alin 0.75mg Dexametasona 30 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 109,
+    "codigo": null
+  },
+  {
+    "nombre": "Alin Ampolleta 2ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alin Oftalmico Gotas 5ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Aliviax",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 97,
+    "precioVenta": 128,
+    "codigo": null
+  },
+  {
+    "nombre": "Alka-Seltzer Boost 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "AlkaSeltzer 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "AlkaSeltzer Exib 100 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 348,
+    "codigo": null
+  },
+  {
+    "nombre": "Allegra 10 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 406,
+    "codigo": null
+  },
+  {
+    "nombre": "ALLEGRA D ANTIHISTAMINICO PARA CONGESTION NASAL Y ALERGIAS 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antigripal",
+    "stock": 0,
+    "precioVenta": 622.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Alli-Triple 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alli-Triple 20 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alli-Triple 6 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Alliviax 550mg 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Alliviax 550mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 130,
+    "codigo": null
+  },
+  {
+    "nombre": "Alopurinol 300 Mg X 20 Tablest",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Alopurinol Alzoprim 300MG 20 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Altiver Captopril 50mg 30tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "ALUMINIO 200 MG / MAGNESIO 200 MG / DIMETICONA 20 MG 50 TABLETAS MASTICABLES",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 100.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ALUMINIO 3.7 GR / MAGNESIO 4 GR / SIMETICONA .5 GR SUSPENSION 320 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 89.6,
+    "codigo": null
+  },
+  {
+    "nombre": "AMANTADINA .5 GR / CLORFENAMINA .02 GR/ PARACETAMOL 3 GR SOLUCION INFANTIL 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 72,
+    "codigo": null
+  },
+  {
+    "nombre": "AMANTADINA / CLORFENAMINA / PARACETAMOL 24 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 52.8,
+    "codigo": null
+  },
+  {
+    "nombre": "AMANTADINA / CLORFENAMINA / PARACETAMOL SOLUCION GOTAS 30 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 97.6,
+    "codigo": null
+  },
+  {
+    "nombre": "AMBROXOL / CLENBUTEROL SOLUCION BROXOL PLUS 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 334.4,
+    "codigo": null
+  },
+  {
+    "nombre": "AMBROXOL 20MG 18 PASTILLAS HISTIACIL GR3",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Gripa y tos",
+    "stock": 0,
+    "precioVenta": 190.4,
+    "codigo": null
+  },
+  {
+    "nombre": "AMBROXOL 7.5 MG SOLUCION GOTAS 30 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Ambroxol Ped Gotas 7.5mg 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "AMBROXOL SOLUCION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "AMBROXOL/DEXTROMETORFANO 400/400MG SOLUCION GOTAS 30ML",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 46.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Amcef I.M Ceftriaxona 500mg Inyec",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Ameblin Suspension 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Amebyl Susp 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Amifarin 250 Mg 60 Ml Susp Dicloxacilina",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Amifarin Dicloxacilina 500mg 12 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "Amikacina  2 Amp 100mg/2ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Amikacina 100mg/2ml Inyectable",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 25,
+    "codigo": null
+  },
+  {
+    "nombre": "Amikacina 2 Amp 500mg/2ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Amikacina 500 Mg/2 Ml 1 Amp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 28,
+    "codigo": null
+  },
+  {
+    "nombre": "Amlodipino 5mg 10 Tab Ultra",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Amlodipino 5mg 30tab Ultra Lab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Amodoryl Lansoprazol 30 Mg 14 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "AMOXICILINA / ACIDO CLAVULANICO 125/31.25 MG SUSPENSION 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 67.2,
+    "codigo": null
+  },
+  {
+    "nombre": "AMOXICILINA / ACIDO CLAVULANICO 250MG 60ML SUSPENSION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 102.4,
+    "codigo": null
+  },
+  {
+    "nombre": "AMOXICILINA / ACIDO CLAVULANICO 400/57 SUSPENSION 50, 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 102.4,
+    "codigo": null
+  },
+  {
+    "nombre": "AMOXICILINA / ACIDO CLAVULANICO 500 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 152,
+    "codigo": null
+  },
+  {
+    "nombre": "AMOXICILINA / ACIDO CLAVULANICO 600/42.9 MG SUSPENSION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 140.8,
+    "codigo": null
+  },
+  {
+    "nombre": "AMOXICILINA / ACIDO CLAVULANICO 875MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Amoxicilina 500mg 12 Caps Amsa",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Amoxicilina Acido Clavulanico 400mg 50ml Amsa",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Amoxicilina Susp 500mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Amoxicilina, Acido Clavulanico Ped 200mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Ampamil Infantil Jbe 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Ampamil Tabas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Ampicilina 500mg 20 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Ampicilina 500mg Susp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Ampicilina Inyect 500mg 1 Amp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Amtasiv Ambr/Lorat Susp 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Anaferon Adulto 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 255,
+    "codigo": null
+  },
+  {
+    "nombre": "Analgen 220",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 130,
+    "codigo": null
+  },
+  {
+    "nombre": "Analgen 220mg 20 tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Analgen 550",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 118,
+    "codigo": null
+  },
+  {
+    "nombre": "Analgen 550mg 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 108,
+    "codigo": null
+  },
+  {
+    "nombre": "Analgen Fem 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Analgen Forte 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Anara 20 Tab 5mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 148,
+    "codigo": null
+  },
+  {
+    "nombre": "Anara Gotas Laxante 20ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 164,
+    "codigo": null
+  },
+  {
+    "nombre": "Anara Jbe 125ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 196,
+    "codigo": null
+  },
+  {
+    "nombre": "Anavit 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 90,
+    "codigo": null
+  },
+  {
+    "nombre": "Andantol 4mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 164,
+    "codigo": null
+  },
+  {
+    "nombre": "Andantol Crema 25g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 209,
+    "codigo": null
+  },
+  {
+    "nombre": "Animalin C Gomitas C/60",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 90,
+    "codigo": null
+  },
+  {
+    "nombre": "Animalin Gotas Adc",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Antiflu-Des 24 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Antiflu-Des Jr. Jbe 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Antiflu-Des Pediatrico",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Ardosons 20 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "Ariflam Diclofenaco 100 Mg 20 Tablets",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Arramplor Alopurinol 300 Mg 20tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 41,
+    "codigo": null
+  },
+  {
+    "nombre": "Aspirina 100 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 99,
+    "codigo": null
+  },
+  {
+    "nombre": "Aspirina 500 Mg 80 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 110,
+    "codigo": null
+  },
+  {
+    "nombre": "Aspirina 500mg 40 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 58,
+    "codigo": null
+  },
+  {
+    "nombre": "Aspirina C100",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 110,
+    "codigo": null
+  },
+  {
+    "nombre": "Aspirina Efervescente 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 46,
+    "codigo": null
+  },
+  {
+    "nombre": "Aspirina Protect 28 Tab 100mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 168,
+    "codigo": null
+  },
+  {
+    "nombre": "Atiflan Suspension 1g Nimesulida 90ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Atorlip 10mg Atorvastatina 20 tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 39,
+    "codigo": null
+  },
+  {
+    "nombre": "Atorlip 20mg Atorvastatina 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Atorlip 40mg Atorvastatina 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "ATORVASTATINA 20 MG PFIZER 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Hipolipemiante",
+    "stock": 0,
+    "precioVenta": 382.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ATORVASTATINA 40 MG PFIZER 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Hipolipemiante",
+    "stock": 0,
+    "precioVenta": 638.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Avapena 25mg 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 265,
+    "codigo": null
+  },
+  {
+    "nombre": "Axe  150ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Azitromicina Serral 3 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Azitromicina Susp 200mg/5ml 15ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Azogen 20 Tabas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 135,
+    "codigo": null
+  },
+  {
+    "nombre": "Bacao Kroll 60 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bacao Kroll Emulsion 340ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bacaovit 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bacaovit Elixir 340ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bactiver F 800mg/160mg 14 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Bactiver Susp 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Bactrim F 800 Mg /160 15 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 372,
+    "codigo": null
+  },
+  {
+    "nombre": "Bactropin 20 Tab 80mg 400mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Bactropin F 14 Tabs 160/800MG",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Bactropin Susp 40mg/200mg 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Balsamo Bengue 35 Grm",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Balsamo Blanco 100g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Balsamo Del Dr Castro",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Barmicil Compuesto Crema 40g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 29,
+    "codigo": null
+  },
+  {
+    "nombre": "BARRA TOPICA REPELENTE 15GR SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Repelentes",
+    "stock": 0,
+    "precioVenta": 132.8,
+    "codigo": null
+  },
+  {
+    "nombre": "BAUMANOMETRO DIGITAL (MANUAL) 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 1214.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BAUMANOMETRO DIGITAL DE MUÑECA AUTOMATICO 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 990.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Baycuten Crema 30 Grm",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 440,
+    "codigo": null
+  },
+  {
+    "nombre": "BEBIDA RE HIDRATANTE CON APORTE DE IONES 0% AZUCAR SABOR UVA 500ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "BECLOMETASONA 50 MCG AEROSOL PARA INHALACION 200 DOSIS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Bedoyecta 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 299,
+    "codigo": null
+  },
+  {
+    "nombre": "Bedoyecta Tri Inyectable 5 Jeringas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 360,
+    "codigo": null
+  },
+  {
+    "nombre": "BENCIDAMINA 45MG/100ML SOLUCION 30 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BENCIDAMINA CLORHIDRATO GEL 60 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BENCIDAMINA SOLUCION 360 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Beneventol Cefixima 400mg 6 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 245,
+    "codigo": null
+  },
+  {
+    "nombre": "Beneventol Cefixima Suspension 50ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 180,
+    "codigo": null
+  },
+  {
+    "nombre": "Beniflant Bucal 360 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 78,
+    "codigo": null
+  },
+  {
+    "nombre": "BENZOCAINA 10 MG 24 PASTILLAS GRANEODIN B",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Benzocaina Gel 1 Grm",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "BENZONATATO 100 MG 20 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 54.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Bepanthen 100g Pomada",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bepanthen 30g Pomada",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Betahistina 24 Mg 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 93,
+    "codigo": null
+  },
+  {
+    "nombre": "BETAMETASONA 0.1% VALERATO CREMA 40 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 126.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BETAMETASONA/GENTAMICINA/CLOTRIMAZOL 40GR CREMA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 51.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Bezafibrato 200 Mg 30 Tabl",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Bezafibrato Bifaren 200mg 30 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "BIBERON 4 ONZAS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Accesorio",
+    "stock": 0,
+    "precioVenta": 35.2,
+    "codigo": null
+  },
+  {
+    "nombre": "BIBERON ANTICOLICO 260ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Accesorio",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BIBERON DE 8 ONZAS CON MAMILA 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Accesorio",
+    "stock": 0,
+    "precioVenta": 38.42,
+    "codigo": null
+  },
+  {
+    "nombre": "Biberon Evenflo 2oz 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 23,
+    "codigo": null
+  },
+  {
+    "nombre": "Biberon Evenflo 4oz 120ml Colores",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Biberon Evenflo 8oz 240ml Colores",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bicarbonato Jaloma 100g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bicolor Delgado 12pz",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Binotal 500mg 20 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 180,
+    "codigo": null
+  },
+  {
+    "nombre": "Binotal 500mg 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 270,
+    "codigo": null
+  },
+  {
+    "nombre": "Bio Electro 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Biomesina Butilhioscina 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 36,
+    "codigo": null
+  },
+  {
+    "nombre": "Biomesina Compuesta 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Biomivit- 400 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 110,
+    "codigo": null
+  },
+  {
+    "nombre": "Bionoxol Ambroxol 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Bipalver Pregabalina 150mg 28caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bisolvon Adulto 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 176,
+    "codigo": null
+  },
+  {
+    "nombre": "Bisolvon Infantil 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 176,
+    "codigo": null
+  },
+  {
+    "nombre": "Bixen Naproxeno 550mg 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Blendox 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Blendox Clorfenamina Susp 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "BLOQUEADOR BRUMA AEROSOL FPS50+ 75ML ETERNAL",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Protector solar",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BLOQUEADOR ECOFRIENDLY 50+ 125ML ETERNAL",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Protector solar",
+    "stock": 0,
+    "precioVenta": 398.42,
+    "codigo": null
+  },
+  {
+    "nombre": "BLOQUEADOR FACIAL/CORPORAL FPS50+ 60GR ETERNAL",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Protector solar",
+    "stock": 0,
+    "precioVenta": 126.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BLOQUEADOR FACIAL/CORPORAL FPS50+125GR ETERNAL",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Protector solar",
+    "stock": 0,
+    "precioVenta": 246.4,
+    "codigo": null
+  },
+  {
+    "nombre": "BLOQUEADOR FLUIDO FPS50+ 50ML ETERNAL",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Protector solar",
+    "stock": 0,
+    "precioVenta": 398.42,
+    "codigo": null
+  },
+  {
+    "nombre": "Bocetix 5 Mg 10 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "Bocetix Susp Levocetirizina",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Bonadoxina 25 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 298,
+    "codigo": null
+  },
+  {
+    "nombre": "Borrador Pointer 30pz",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 58,
+    "codigo": null
+  },
+  {
+    "nombre": "Brealitam 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Brocolin Caramelo  100 Piezas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Brogal Compositum 20ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Bromhexina Ad Susp 100ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Bromhexina Inf Susp 100ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Bromixen 500mg/8mg 12 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bromixen Susp 90ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Bromuro De Pinaverio 100mg 14 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Brudex Dextrometorfano Jbe 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 38,
+    "codigo": null
+  },
+  {
+    "nombre": "Brunadol 300 Mg 10 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 39,
+    "codigo": null
+  },
+  {
+    "nombre": "Brunadol Paracet/Naprox Jbe 100ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 56,
+    "codigo": null
+  },
+  {
+    "nombre": "Brupacil Hioscina 10mg 10tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Budesonida 250 Mg 5 Ampolleta",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Buscapina 12 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 9998,
+    "precioVenta": 148,
+    "codigo": null
+  },
+  {
+    "nombre": "Buscapina 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 990,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Buscapina Compositum 36 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 268,
+    "codigo": null
+  },
+  {
+    "nombre": "Buscapina Compuesta 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Buscapina Duo 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 199,
+    "codigo": null
+  },
+  {
+    "nombre": "Buscapina Fem 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Busconet 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 58,
+    "codigo": null
+  },
+  {
+    "nombre": "Butilhioscina",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 38,
+    "codigo": null
+  },
+  {
+    "nombre": "Butilhioscina 10 Mg 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Cafi Aspirina C100",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 176,
+    "codigo": null
+  },
+  {
+    "nombre": "Cafiaspirina 40 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cafiaspirina Forte 24 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Calcidef Calcio 500mg 12tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "Calcigenol Doble 340ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "CALCIO / VITAMINA D3 600MG/400UI 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Huesos y articulaciones",
+    "stock": 0,
+    "precioVenta": 126.4,
+    "codigo": null
+  },
+  {
+    "nombre": "CALCIO/VITAMINA D3 20 TABLETAS EFERVESCENTES TUBO LIMON",
+    "marca": "Similares",
+    "categoria": "Analgesia - Huesos y articulaciones",
+    "stock": 0,
+    "precioVenta": 158.42,
+    "codigo": null
+  },
+  {
+    "nombre": "Candiphen-V 3 Ovulos",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Candiphen-V Dual Crema Y Ovulos",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Canesten Crema 1%",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 119,
+    "codigo": null
+  },
+  {
+    "nombre": "Canesten V 3 Ovulos",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 162,
+    "codigo": null
+  },
+  {
+    "nombre": "Capsiflu Total 12 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Captopril 100 Tab 25mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Captopril 25mg 30tab Ultra",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Caramelo Drops 20 Tab Menta",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Carbamazepina 200 Mg 20 Tablets",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "CARBOCISTEINA 375MG/5ML SOLUCION 150 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 137.6,
+    "codigo": null
+  },
+  {
+    "nombre": "CARBONATO DE CALCIO 750MG 24 TABLETAS TUMS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 70.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Cariden Deflazacort 6mg 20tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "CASTAÑO INDIAS / RUSCUS 250MG/70MG ACULEATUS 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Circulatorio",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "CefaBroxil 15 Tab Cefalexina/Ambroxol",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefagen 500mg 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 199,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefagen Cefuroxima Susp 250mg/5ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 128,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefalexina Susp 250mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefalver 500mg Cefalexina 12 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefalver Cefalexina 500mg 20 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 90,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefalver Susp 125mg 90ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefalver Susp 250mg/5ml 90ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefixima Beneventol 400 Mg 3 Cap",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 118,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefotaxima 1g Inyect",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Ceftazidima 1g Inyect 3ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "Ceftriaxona 1g Iny Collins",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 9986,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "Ceftriaxona 1gm Inyec",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "CEFTRIAXONA 500 MG SOLUCION INYECTABLE 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 78.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Cefuroxima 750 Mg Amp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Celecoxib 200 Mg X10 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 110,
+    "codigo": null
+  },
+  {
+    "nombre": "Celestamine",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 686,
+    "codigo": null
+  },
+  {
+    "nombre": "Celestamine Ns 5.0mg 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 285,
+    "codigo": null
+  },
+  {
+    "nombre": "Celestamine Ns 5.0mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 498,
+    "codigo": null
+  },
+  {
+    "nombre": "Celestamine Ns Ped 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 420,
+    "codigo": null
+  },
+  {
+    "nombre": "Celestone Pediatrico 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 335,
+    "codigo": null
+  },
+  {
+    "nombre": "Centrum Balance 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 180,
+    "codigo": null
+  },
+  {
+    "nombre": "Centrum Kids 30 tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 195,
+    "codigo": null
+  },
+  {
+    "nombre": "Centrum Performace 30 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 228,
+    "codigo": null
+  },
+  {
+    "nombre": "Centrum Performance 100 tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 399,
+    "codigo": null
+  },
+  {
+    "nombre": "Cepillo Dental Adulto",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cepillo Dental Niños Good Will 12pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cetaphil Barra 127g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 154,
+    "codigo": null
+  },
+  {
+    "nombre": "CETIRIZINA 10 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 96,
+    "codigo": null
+  },
+  {
+    "nombre": "Chupon  Exib 24Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "CHUPON BEBE 0-6 MESES NIÑO 1 PIEZA AVENT",
+    "marca": "Similares",
+    "categoria": "Bebés - Accesorio",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Cicloferon Aciclovir Crema",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 74,
+    "codigo": null
+  },
+  {
+    "nombre": "Cicloferon Crema 5% 2g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 72,
+    "codigo": null
+  },
+  {
+    "nombre": "Cicloferon Xtrm Spray 50ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 638,
+    "codigo": null
+  },
+  {
+    "nombre": "CINARIZINA 75 MG 60 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 83.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Cinta Adesiva 50pzs Devek",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cinta Adhesiva 2.5cm X 5m Protec",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cinta Aislante Amarillo 2260 Lion Tools",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cinta Aislante Negro 7718 Lion Tools 19mm X 9m",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cinta Canela Max Tape",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Ciprain 500mg Ciprofloxacino 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 56,
+    "codigo": null
+  },
+  {
+    "nombre": "CIPROFIBRATO 100 MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Hipolipemiante",
+    "stock": 0,
+    "precioVenta": 478.4,
+    "codigo": null
+  },
+  {
+    "nombre": "CIPROFLOXACINO / DEXAMETASONA 3.5/1 MG SOLUCION OFTALMICA 5 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oftalmológico",
+    "stock": 0,
+    "precioVenta": 113.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Ciprofloxacino 500mg 14 Tab Hormonas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "Ciprofloxacino Gotas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Ciprofloxacino Gotas Oftalmico 5ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "CIPROFLOXACINO SOLUCION OFTALMICA 5 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oftalmológico",
+    "stock": 0,
+    "precioVenta": 81.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Ciruelax 24 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 124,
+    "codigo": null
+  },
+  {
+    "nombre": "Ciruelax 50 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 165,
+    "codigo": null
+  },
+  {
+    "nombre": "Cirulan Metoclopramida 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Cirulan Metoclopramida Gotas 20ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "CISAPRIDA 10 MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 113.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Citracal D Fem 60 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 262,
+    "codigo": null
+  },
+  {
+    "nombre": "Clamoxin 500mg/125mg 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Clamoxin 875mg/125mg 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Clamoxin Jr",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 96,
+    "precioVenta": 60.1,
+    "codigo": null
+  },
+  {
+    "nombre": "Clamoxin Ped 12h Susp 40ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Clamoxin S 600mg Susp 50ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Clamoxin Susp 250mg 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "CLARITROMICINA 125 MG SUSPENSION 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 198.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ClaRITROMICINA 500 MG",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 135,
+    "codigo": null
+  },
+  {
+    "nombre": "Clavipen 12H 875/125mg 10tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 90,
+    "codigo": null
+  },
+  {
+    "nombre": "Clavipen 250mg 60ml.",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Clavipen 500 Mg 125 Mg 10 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Clfhiven Espray",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "CLINDAMICINA / KETOCONAZOL 7 OVULOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 145.6,
+    "codigo": null
+  },
+  {
+    "nombre": "CLINDAMICINA / PEROXIDO DE BENZOILO 1/5 GR GEL 30 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 606.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Clindamicina 300 Mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "Clindamicina 300mg 1 Ampolleta",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 28,
+    "codigo": null
+  },
+  {
+    "nombre": "Clindamicina 300mg 16 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "Clindamicina 600 Mg 5 Ampolletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 130,
+    "codigo": null
+  },
+  {
+    "nombre": "CLOBETASOL 0.044/100GR CREMA 40GR",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 430.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Clonazepam 2.5mg 10ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 180,
+    "codigo": null
+  },
+  {
+    "nombre": "Clonazepam 2.5mg 10ml Psicofarma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "CLONIXINATO DE LISINA / BUTILHIOSCINA 250/10MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 113.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Clopidogrel 75mg 28 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 115,
+    "codigo": null
+  },
+  {
+    "nombre": "CLORANFENICOL 5 MG UNGÜENTO OFTALMICO 5 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oftalmológico",
+    "stock": 0,
+    "precioVenta": 105.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Cloranfenicol Gotas Oft",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 39,
+    "codigo": null
+  },
+  {
+    "nombre": "Cloranfenicol Oft 5g Unguento",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "CLORFENAMINA / FENILEFRINA / PARACETAMOL 24 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 57.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Clorfenamina Compuesta",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 25,
+    "codigo": null
+  },
+  {
+    "nombre": "Cloropiramina 20 Tab 25mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Clortalidona 50mg 20 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "CLOTRIMAZOL 1/100GR 30GR CREMA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "CLOTRIMAZOL 2/100GR 20GR CREMA VAGINAL",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 78.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Clotrimazol 3 Ovulos Crema",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 69,
+    "codigo": null
+  },
+  {
+    "nombre": "CLOTRIMAZOL DUAL (CREMA VAGINAL 10 GR/ 3 OVULOS)",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Cloxan Ambroxol 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Cloxan Ambroxol 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Co Exaliv Susp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cobadex Adulto 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cobadex Infantil 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cobadex Pediatrico Gotas 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cobedina Ns 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cobedina Ns 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Colchiquim 1mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 62,
+    "codigo": null
+  },
+  {
+    "nombre": "Collicort Hidrocortisona 2.5 Crema 60g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 96,
+    "codigo": null
+  },
+  {
+    "nombre": "Combantrin 6 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Combantrin Suspension",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "COMBO GEL DENTAL 50 ML + DEDAL SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Bebés - Accesorio",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "COMBO NARHEMO UNGÜENTO 30 GR + NARHEMO TABLETAS 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "COMPLEJO B (VITAMINAS B1 / B6 / B12) 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Multivitamínico",
+    "stock": 0,
+    "precioVenta": 36.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Condon Playboy Vitrolero Mix",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Contac Ultra 12 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Contac Ultra 25 Sobres",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Convifer C/Hierro 110 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Convifer Jbe 220ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "Conysmin Metoclopramida 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Cortauñas Maincraft",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 14,
+    "codigo": null
+  },
+  {
+    "nombre": "Cotonettes Kiuts Jaloma Exb 20pz",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "CREMA ACEITE DE ALMENDRAS DULCES E HIDROXIDO DE CALCIO 225 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 209.6,
+    "codigo": null
+  },
+  {
+    "nombre": "CREMA CORPORAL DERMOCOSMETICA PH NATURAL 250 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 180.82,
+    "codigo": null
+  },
+  {
+    "nombre": "CREMA CORPORAL NIVEA PARA PIEL EXTRA SECA 220 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 89.6,
+    "codigo": null
+  },
+  {
+    "nombre": "CREMA KARITE ETERNAL CUERPO / MANOS 250ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Belleza",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Crema Nivea 50ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cubreboca Adulto",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Cubreboca Infantil",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Curitas 100pz Cureband",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 54,
+    "codigo": null
+  },
+  {
+    "nombre": "Cutter G 12pz",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dalidek 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Dalidome 12 Sobres",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 296,
+    "codigo": null
+  },
+  {
+    "nombre": "Dalvear Susp Adulto",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 302,
+    "codigo": null
+  },
+  {
+    "nombre": "Danzen Tabas 5 Mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 270,
+    "codigo": null
+  },
+  {
+    "nombre": "DAPAGLIFLOZINA 10MG 28 TABLETAS (ASTRA)",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 1278.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Deflazacort 30 Mg 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 156,
+    "codigo": null
+  },
+  {
+    "nombre": "Depofin Susp 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Dequin Jbe Infantil 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "Dermodine Antiseptica 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Desenfriol D",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 78,
+    "codigo": null
+  },
+  {
+    "nombre": "Desenfriolito Plus 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 68,
+    "codigo": null
+  },
+  {
+    "nombre": "DESLORATADINA 5 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 112,
+    "codigo": null
+  },
+  {
+    "nombre": "DESLORATADINA 50 MG SOLUCION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DESONIDA 0.05% CREMA 30 GR",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 398.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DESVENLAFAXINA 50 MG 14 TABLETAS LIBERACION PROLONGADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Enfermedades mentales",
+    "stock": 0,
+    "precioVenta": 798.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DEXAMETASONA 0.50MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 46.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Dexametasona Inyec 3 Amp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "DEXAMETASONA SOLUCION INYECTABLE 8MG/2ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 22.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DEXAMETASONA/FENILEFRINA/NEOMICINA 15ML NASAL",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antigripal",
+    "stock": 0,
+    "precioVenta": 54.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Dexne Nasal 10ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dexne Oftalmico Gotas 4ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 49,
+    "codigo": null
+  },
+  {
+    "nombre": "Dexne Otico Gotas 10ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "DEXPANTENOL 5/100GR CREMA 30GR SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Bebés - Cuidado del Bebé",
+    "stock": 0,
+    "precioVenta": 54.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DEXTROMETORFANO / GUAIFENESINA .1/1 GR INFANTIL SOLUCION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Gripa y tos",
+    "stock": 0,
+    "precioVenta": 72,
+    "codigo": null
+  },
+  {
+    "nombre": "DEXTROMETORFANO / GUAIFENESINA .2/2 GR ADULTO SOLUCION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Gripa y tos",
+    "stock": 0,
+    "precioVenta": 60.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Dialgin 20 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "Diazepam 10mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 180,
+    "codigo": null
+  },
+  {
+    "nombre": "Diclofenaco",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 28,
+    "codigo": null
+  },
+  {
+    "nombre": "DICLOFENACO .18 GR SUSPENSION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DICLOFENACO 100MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 56,
+    "codigo": null
+  },
+  {
+    "nombre": "DICLOFENACO 15MG PARCHE 5 PIEZAS VOLTAREN",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DICLOFENACO 1MG/ML SOLUCION GOTAS OFTALMICAS 5 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oftalmológico",
+    "stock": 0,
+    "precioVenta": 65.6,
+    "codigo": null
+  },
+  {
+    "nombre": "DICLOFENACO 75 MG / VITAMINAS B12 5 MG / B6 100 MG / B1 100 MG SOLUCION INYECTABLE 6 AMPOLLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 102.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DICLOFENACO SODICO / VITAMINAS B1 / B6 / B12 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 102.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DICLOFENACO SODICO 75MG/3ML SOLUCION INYECTABLE 2 AMPOLLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 32,
+    "codigo": null
+  },
+  {
+    "nombre": "Dicloxacilina 20 Caps Amifarin",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "DIETA POLIMERICA SIN FIBRA BAJA EN CARBOHIDRATOS SABOR FRESA 236 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Dieta polimérica",
+    "stock": 0,
+    "precioVenta": 105.6,
+    "codigo": null
+  },
+  {
+    "nombre": "DIETA POLIMERICA SIN FIBRA BAJA EN CARBOHIDRATOS SABOR MOKA 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Dieta polimérica",
+    "stock": 0,
+    "precioVenta": 105.6,
+    "codigo": null
+  },
+  {
+    "nombre": "DIETA POLIMERICA SIN FIBRA HIPERCALORICA INFANTIL SABOR CHOCOLATE 236 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Dieta polimérica",
+    "stock": 0,
+    "precioVenta": 89.6,
+    "codigo": null
+  },
+  {
+    "nombre": "DIETA POLIMERICA SIN FIBRA SABOR CHOCOLATE 236 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Dieta polimérica",
+    "stock": 0,
+    "precioVenta": 82.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DIETA POLIMERICA SIN FIBRA SABOR VAINILLA 236 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Dieta polimérica",
+    "stock": 0,
+    "precioVenta": 82.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Difenidol 30 Tabs 25mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Dilostop 2mg Loperamida 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Dimopen Amoxicilina 250mg 75ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Dimopen Amoxicilina 500mg Susp 75ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Dinamax Jr Jbe 250ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "Dintrefergot Dimeticona Gotas 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 49,
+    "codigo": null
+  },
+  {
+    "nombre": "DIOSMECTITA 3 G 8 SOBRES SUSPENSION IPRIKENE CACAO",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 478.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DIOSMECTITA 3 GR 10 SOBRES POLVO FRESA IPRIKENE",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 478.4,
+    "codigo": null
+  },
+  {
+    "nombre": "DIOSMINA / HESPERIDINA 450/50MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 276.8,
+    "codigo": null
+  },
+  {
+    "nombre": "DIOSMINA 600 MG 15 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 305.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Dipera Loperamida 12 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Distental 100mg 14 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Diviltac Ampolletaa",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 56,
+    "codigo": null
+  },
+  {
+    "nombre": "DOBESILATO DE CALCIO 250 MG / DIOSMINA 225 MG / HESPERIDINA 25 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 814.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Doflatem Suspencio",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolo-Neurobion 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolo-Neurobion 20 tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolo-Neurobion Forte 1jga",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolo-Neurobion Forte 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolprin Susp Ibuprofeno 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Doltrix 125mg/10mg 20tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolver",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 36,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolver 400",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 43,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolver 600mg 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolver 800mg Ibuprofeno 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Dolver Ibuprofeno Susp Infantil 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "Doxiciclina 100mg 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "DRACAGEL 60GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 180.82,
+    "codigo": null
+  },
+  {
+    "nombre": "Dramamine 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 214,
+    "codigo": null
+  },
+  {
+    "nombre": "DROSPIRENONA / ETINILESTRADIOL 21 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 472,
+    "codigo": null
+  },
+  {
+    "nombre": "DROSPIRENONA / ETINILESTRADIOL 3/0.02MG 28 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 494.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Dualgos",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Dualgos 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITO 0% AZUCAR FRESA-KIWI 500ML HIDRATASIM",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITO 0% AZUCAR PONCHE 500ML HIDRATASIM",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITO ORAL JAMAICA 500ML",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITO POLVO 10SOBRES XGEAR CHOCOLATE",
+    "marca": "Similares",
+    "categoria": "Deportistas - Complementos",
+    "stock": 0,
+    "precioVenta": 136,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS ORALES COCO 500 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS ORALES CON SABOR POLVO EN SOBRE 27.9GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Polvo",
+    "stock": 0,
+    "precioVenta": 14.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS ORALES FRESA / KIWI 500 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS ORALES FRESA 500 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS ORALES MORA AZUL 500ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS ORALES NATURAL POLVO EN SOBRE 27.9GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Polvo",
+    "stock": 0,
+    "precioVenta": 14.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS ORALES UVA 500 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "ELECTROLITOS PEDIATRICOS ORALES SABOR UVA 500ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Rehidratantes - Líquido",
+    "stock": 0,
+    "precioVenta": 40.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Encendedor Tokai Caja 25 Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Encendedor Tokai Exhibidor",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "ENJUAGUE BUCAL ANTISEPTICO SABOR MENTA POLVO 12 SOBRES",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ENTEROGERMINA PROBIOTICO CON 2 BILLONES DE UFC 10 AMPOLLETAS DE 5 ML",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 366.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Erbitrax Crema 15 G",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Erispan Comp Suspension 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Erispan Compuesto 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Eritromicina 500mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 82,
+    "codigo": null
+  },
+  {
+    "nombre": "ESCITALOPRAM 10 MG 14TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Enfermedades mentales",
+    "stock": 0,
+    "precioVenta": 118.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ESCITALOPRAM 10 MG 28 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Enfermedades mentales",
+    "stock": 0,
+    "precioVenta": 179.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Esencia Maravillosa 35ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Espabion 100 Ml Suspension",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "Espadiva 20mg/400mg 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 99,
+    "codigo": null
+  },
+  {
+    "nombre": "Espaven 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 160,
+    "codigo": null
+  },
+  {
+    "nombre": "Estericide Solucion 240 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 252,
+    "codigo": null
+  },
+  {
+    "nombre": "ETORICOXIB 90 MG 28 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 318.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Eucaliptine Jarabe 140ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 148,
+    "codigo": null
+  },
+  {
+    "nombre": "Exaliv 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Excedrin Migraña 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "Exicort Etoricoxib 7tab 90mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "EXTRACTOR MANUAL PARA LECHE MATERNA SIMIBABY 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Lactancia",
+    "stock": 0,
+    "precioVenta": 430.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Farmiver 2 Tabs Adulto",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Farmiver Infantil Susp 10ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Fasiclor Susp 250mg/5ml 75ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Fazolin Gotas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Febrax 275mg/300mg 15 tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 210,
+    "codigo": null
+  },
+  {
+    "nombre": "Febraxito 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 139,
+    "codigo": null
+  },
+  {
+    "nombre": "FENILEFRINA / CLORFENAMINA / GUAIFENESINA / PARACETAMOL INFANTIL JARABE 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 76.8,
+    "codigo": null
+  },
+  {
+    "nombre": "FENITOINA SODICA 100MG 50 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 73.6,
+    "codigo": null
+  },
+  {
+    "nombre": "FENOFIBRATO 160 MG 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Hipolipemiante",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Ferranina Fol 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 575,
+    "codigo": null
+  },
+  {
+    "nombre": "Fibroxol Bezafibrato 30 tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Filo Dorco 10pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Flagenase 400mg 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 185,
+    "codigo": null
+  },
+  {
+    "nombre": "Flanax 275mg 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Flanax 550mg 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 135,
+    "codigo": null
+  },
+  {
+    "nombre": "Flanax 550mg 30 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 245,
+    "codigo": null
+  },
+  {
+    "nombre": "Flanax Gel 40g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Flaxendol 550mg 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Flaxenol 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Flexiver 15 Mg 10 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Flextrin 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 125,
+    "codigo": null
+  },
+  {
+    "nombre": "Flor-Vit B-12 Vino Med 250ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Fluconazol 1 Caps 150mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 25,
+    "codigo": null
+  },
+  {
+    "nombre": "FLUOCINOLONA / METRONIDAZOL / NISTATINA 10 OVULOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 84.8,
+    "codigo": null
+  },
+  {
+    "nombre": "FLUOCINOLONA CREMA 20 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 28,
+    "codigo": null
+  },
+  {
+    "nombre": "FLUOXETINA 20 MG 28 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Enfermedades mentales",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Fluoxetina 20mg 14 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "FLUTICASONA 27.5MCG/50MCL SPRAY NASAL 120 DOSIS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 718.4,
+    "codigo": null
+  },
+  {
+    "nombre": "FLUTICASONA 50 MCG AEROSOL PARA INHALACION 120 DOSIS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 472,
+    "codigo": null
+  },
+  {
+    "nombre": "Fluxacord Ciproflox 500mg 14Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 56,
+    "codigo": null
+  },
+  {
+    "nombre": "Foco 18w  Led",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 26,
+    "codigo": null
+  },
+  {
+    "nombre": "Foco Bombillo 100w",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Foco Bombillo 60w",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Foco Bombillo 75w",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "FORMULA LACTEA 0-6 MESES NUTRIFORMULA 400 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Fórmulas infantiles",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "FORMULA LACTEA 0-6MESES 230GR NAN 1",
+    "marca": "Similares",
+    "categoria": "Bebés - Fórmulas infantiles",
+    "stock": 0,
+    "precioVenta": 174.4,
+    "codigo": null
+  },
+  {
+    "nombre": "FORMULA LACTEA 1-3 AÑOS NUTRIFORMULA 400 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Fórmulas infantiles",
+    "stock": 0,
+    "precioVenta": 212.8,
+    "codigo": null
+  },
+  {
+    "nombre": "FORMULA LACTEA 1AÑO + 330 GR NAN 3",
+    "marca": "Similares",
+    "categoria": "Bebés - Fórmulas infantiles",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "FORMULA LACTEA 6-12 MESES NUTRIFORMULA 400 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Fórmulas infantiles",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "FORMULA LACTEA 6-12MESES 230GR NAN 2",
+    "marca": "Similares",
+    "categoria": "Bebés - Fórmulas infantiles",
+    "stock": 0,
+    "precioVenta": 166.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Fortical B",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "FOTOPROTECTOR SOLAR CON COLOR 50+ ETERNAL SECRET 30ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Protector solar",
+    "stock": 0,
+    "precioVenta": 278.4,
+    "codigo": null
+  },
+  {
+    "nombre": "FUMARATO FERROSO 200 MG 50 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antianémico",
+    "stock": 0,
+    "precioVenta": 28.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Furacin Pomada 85 Grm",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 285,
+    "codigo": null
+  },
+  {
+    "nombre": "Furosemida Diurmessel 40mg 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Gabapentina 300mg 15 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "GABAPENTINA 400 MG 15 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Medicamentos éticos",
+    "stock": 0,
+    "precioVenta": 209.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Gabapentina/ Tiamina/ Cianocobalamina",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 480,
+    "codigo": null
+  },
+  {
+    "nombre": "Galaver Gel 10 Sobres 10ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Galaver Suspension 250ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "Gasa Quirmex 10cm X 10cm 100pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Gasa Quirmex 10x10cm 10pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Gasa Quirmex 7.5cm X 5cm 100pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Gasa Quirmex 7.5cmx5cm 10pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "GEL CICATRIZANTE PIRFENIDONA/DISULFURO MODIFICADO 3.5GR KITOSCELL Q",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GEL MODELADOR DE CABELLO REPELENTE DE PIOJOS Y LIENDRES AROMA A CHICLE 240 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Piojos",
+    "stock": 0,
+    "precioVenta": 104.02,
+    "codigo": null
+  },
+  {
+    "nombre": "GEL POST BRONCEADO ALOE VERA 250 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Protector solar",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Gelcavit Q-10 30 Cap",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 123,
+    "codigo": null
+  },
+  {
+    "nombre": "Gelmicin Crema 40g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "GELUBRIN 600MG 10 CAPS",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 989,
+    "precioVenta": 68,
+    "codigo": null
+  },
+  {
+    "nombre": "GEMFIBROZILO 600 MG 14 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Hipolipemiante",
+    "stock": 0,
+    "precioVenta": 198.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Genoprazol 14 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 68,
+    "codigo": null
+  },
+  {
+    "nombre": "Genoprazol 49 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 159,
+    "codigo": null
+  },
+  {
+    "nombre": "Genoprazol 7 caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Gerial B-12 Elixir 340ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Gimalxina 500 Mg X 12 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "GINKGOBILOBA 40 MG 60 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 198.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GLUCOMETRO ACCU-CHEK ACTIVE 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Diabetes - Glucómetros",
+    "stock": 0,
+    "precioVenta": 1198.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GLUCOMETRO GMATE WHEEL 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Diabetes - Glucómetros",
+    "stock": 0,
+    "precioVenta": 718.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GLUCOMETRO ON CALL PLUS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Diabetes - Glucómetros",
+    "stock": 0,
+    "precioVenta": 718.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GLUCOSAMINA / CONDROITINA / MSM / AJO / ZINC / MAGNESIO / VITAMINAS YMINERALES 420 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Huesos y articulaciones",
+    "stock": 0,
+    "precioVenta": 430.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GOMITAS FIBRA 5GR 72 PIEZAS MULTIGOMI",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Laxante",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GOMITAS LACTOBACILLUS ESPORULADOS 60 GOMITAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GOMITAS MIX DE HONGOS DIA TRAVIS 60 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Memoria y rendimiento",
+    "stock": 0,
+    "precioVenta": 414.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GOMITAS MIX DE HONGOS NOCHE TRAVIS 60 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Relajante",
+    "stock": 0,
+    "precioVenta": 414.4,
+    "codigo": null
+  },
+  {
+    "nombre": "GOMITAS OMEGA ADULTO 60 PIEZAS MULTIGOMI",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Circulatorio",
+    "stock": 0,
+    "precioVenta": 257.6,
+    "codigo": null
+  },
+  {
+    "nombre": "GOMITAS SIN AZUCAR VINAGRE MANZANA 60 PIEZAS MULTIGOMI",
+    "marca": "Similares",
+    "categoria": "Peso y metabolismo",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Gotinal Nafazolina Spray",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 128,
+    "codigo": null
+  },
+  {
+    "nombre": "Graneodin B Frambuesa 24 Pastillas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Graneodin B Menta Eucalipto 24 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Graneodin B Miel Limon 24 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Graneodin F 16 Tab Miel Limon",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 147,
+    "codigo": null
+  },
+  {
+    "nombre": "GUAIFENESINA/OXOLAMINA 2/1GR 140ML JARABE (GENERICO)ADULTO/INFANTIL",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Gripa y tos",
+    "stock": 0,
+    "precioVenta": 91.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Hemostyl Vino Elixir 380ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "HIALURONATO DE SODIO 4MG/ML SOLUCION OFTALMICA 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oftalmológico",
+    "stock": 0,
+    "precioVenta": 318.4,
+    "codigo": null
+  },
+  {
+    "nombre": "HIDROCORTISONA / LIDOCAINA / ALUMINIO/ OXIDO DE ZINC UNGÜENTO 20 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 64,
+    "codigo": null
+  },
+  {
+    "nombre": "HIDROCORTISONA / LIDOCAINA 5/60MG 6 SUPOSITORIOS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "HIDROSMINA 200 MG 20 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 670.4,
+    "codigo": null
+  },
+  {
+    "nombre": "HIDROXICLOROQUINA 200 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 422.4,
+    "codigo": null
+  },
+  {
+    "nombre": "HIERRO DEXTRAN 100MG/2ML SOLUCION INYECTABLE 3 AMPOLLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antianémico",
+    "stock": 0,
+    "precioVenta": 148.8,
+    "codigo": null
+  },
+  {
+    "nombre": "HIERRO POLIMALTOSADO / ACIDO FOLICO 100MG/800MCG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antianémico",
+    "stock": 0,
+    "precioVenta": 262.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Hileras Terry Variedad Colores",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "HISTIACIL FAM JARABE PARA LA TOS SECA Y CON FLEMAS EN ADULTOS FRESA 140 ML",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Gripa y tos",
+    "stock": 0,
+    "precioVenta": 238.4,
+    "codigo": null
+  },
+  {
+    "nombre": "HISTIACIL FAM SOLUCION PEDIATRICA SABOR UVA 60ML. ALIVIO DE LA TOS SECA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Gripa y tos",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Histiacil Jarabe Inf 150ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "IBUPROFENO / CAFEINA 400/100 MG 10 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 65.6,
+    "codigo": null
+  },
+  {
+    "nombre": "IBUPROFENO / DIFENHIDRAMINA 200MG/25MG 10 CAPSULAS GEL",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "IBUPROFENO 800 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 49.6,
+    "codigo": null
+  },
+  {
+    "nombre": "IBUPROFENO CAPSULAS 600MG 10 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 54.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Iliadin Gotas Ped 20ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 129,
+    "codigo": null
+  },
+  {
+    "nombre": "Imodium Lop 12tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 160,
+    "codigo": null
+  },
+  {
+    "nombre": "Indanet Indometacina 25mg 30caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Indarzona 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 89,
+    "codigo": null
+  },
+  {
+    "nombre": "INOSITOL 500 MG 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Multivitamínicos",
+    "stock": 0,
+    "precioVenta": 158.42,
+    "codigo": null
+  },
+  {
+    "nombre": "Isodine 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 199,
+    "codigo": null
+  },
+  {
+    "nombre": "ISOTIPENDILO 0.75/100GR JALEA ANDANTOL 25 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Repelentes",
+    "stock": 0,
+    "precioVenta": 278.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ISOTIPENDILO 0.75GR/100GR JALEA 25 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Repelentes",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "IVERMECTINA 6 MG 4 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 161.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Jabon Ricitos De Oro Avena 90g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Jabon Ricitos De Oro Lavanda 90g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Jabon Ricitos De Oro Manzanilla 100g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Jabon Ricitos De Oro Neutro 90g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Janumet 28 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 698,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA DESECHABLE 3ML 21G X 32MM 4 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Curación",
+    "stock": 0,
+    "precioVenta": 28.8,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA DESECHABLE 5ML 21G X 32MM 3 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Curación",
+    "stock": 0,
+    "precioVenta": 25.6,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA PARA INSULINA 0.3ML CON AGUJA 31GX6MM 10 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Curación",
+    "stock": 0,
+    "precioVenta": 81.62,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA PARA INSULINA 0.5ML CON AGUJA 31GX8MM 10 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Curación",
+    "stock": 0,
+    "precioVenta": 81.62,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA PARA INSULINA 1ML CON AGUJA 27GX13MM 10 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Curación",
+    "stock": 0,
+    "precioVenta": 58.4,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA PARA INSULINA 1ML CON AGUJA 30GX13MM 10 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Curación",
+    "stock": 0,
+    "precioVenta": 78.4,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA PERA NO. 0 1 PIEZA SIMI BABY",
+    "marca": "Similares",
+    "categoria": "Bebés - Accesorio",
+    "stock": 0,
+    "precioVenta": 73.6,
+    "codigo": null
+  },
+  {
+    "nombre": "JERINGA PERA NO. 3 1 PIEZA SIMI BABY",
+    "marca": "Similares",
+    "categoria": "Bebés - Accesorio",
+    "stock": 0,
+    "precioVenta": 78.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Kanka",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 232,
+    "codigo": null
+  },
+  {
+    "nombre": "Kaopectate 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Kenzoflex 5ml Ciprofloxacino",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 58,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOCONAZOL 200 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOCONAZOL CREMA 2% 40 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 51.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Ketoconazol Crema 30g Biomep",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOCONAZOL SHAMPOO SUSPENSION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 105.6,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOPROFENO / PARACETAMOL 100/300MG 12 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiinflamatorio",
+    "stock": 0,
+    "precioVenta": 76.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Ketoprofeno 15 Caps 100mg Amsa",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOROLACO 10 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOROLACO 30 MG TABLETAS SUBLINGUALES 4 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 84.8,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOROLACO 30 MG/1 ML SOLUCION INYECTABLE 3 AMPOLLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 70.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Ketorolaco Ampolleta",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "KETOTIFENO 0.02GR/ML SOLUCION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 76.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Kola Loka Caja 10pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 198,
+    "codigo": null
+  },
+  {
+    "nombre": "Lactiv 6 Sobres",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "LACTOBACILLUS PEDIATRICO FRASCO SOLUCION 6ML SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 406.42,
+    "codigo": null
+  },
+  {
+    "nombre": "Ladexgel 12 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Lamblit Susp 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 34,
+    "codigo": null
+  },
+  {
+    "nombre": "Lampara Recargable 8830",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 260,
+    "codigo": null
+  },
+  {
+    "nombre": "LANCETAS ACCU-CHEK SOFTCLIX 25 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Lancetas",
+    "stock": 0,
+    "precioVenta": 137.6,
+    "codigo": null
+  },
+  {
+    "nombre": "LANCETAS NANOLET 25 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Lancetas",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "LANCETAS NANOLET 50 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Lancetas",
+    "stock": 0,
+    "precioVenta": 174.42,
+    "codigo": null
+  },
+  {
+    "nombre": "LANCETAS ON CALL PLUS 100 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Lancetas",
+    "stock": 0,
+    "precioVenta": 206.4,
+    "codigo": null
+  },
+  {
+    "nombre": "LANSOPRAZOL 30 MG 14 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 137.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Lapiz Mirado HB2 12 Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 62,
+    "codigo": null
+  },
+  {
+    "nombre": "Laritol D Infantil Susp 60ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Laritol Tabs",
+    "marca": "",
+    "categoria": "General",
+    "stock": 9989,
+    "precioVenta": 28,
+    "codigo": null
+  },
+  {
+    "nombre": "LEVETIRACETAM 500 MG 60 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 606.4,
+    "codigo": null
+  },
+  {
+    "nombre": "LEVONORGESTREL / ETINILESTRADIOL .15/.03 MG 28 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 68.8,
+    "codigo": null
+  },
+  {
+    "nombre": "LEVONORGESTREL 1.5 MG 1 TABLETA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 104,
+    "codigo": null
+  },
+  {
+    "nombre": "Ligas De Colores Arcoiris",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "LINCOMICINA 600MG/2ML SOLUCION INYECTABLE 6 AMPOLLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 126.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Linterna Cazeria 3w 8858",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Linterna Recargable 8837",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Lomecan Crema Vaginal 20g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Lomotil",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 78,
+    "codigo": null
+  },
+  {
+    "nombre": "Lomotil 40pz",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA / AMBROXOL 100/600 MG SOLUCION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 57.6,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA / AMBROXOL 5/30 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 51.2,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA / BETAMETASONA 100/5 MG SOLUCION 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 129.6,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA / BETAMETASONA 5 /.25 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 67.2,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA / FENILEFRINA 5/30 MG 10 TABLETAS LIBERACION PROLONGADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antigripal",
+    "stock": 0,
+    "precioVenta": 112,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA / FENILEFRINA 50/100MG JARABE INFANTIL 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antigripal",
+    "stock": 0,
+    "precioVenta": 65.6,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA 10 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 70.4,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA 100MG/100ML JARABE 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 62.4,
+    "codigo": null
+  },
+  {
+    "nombre": "LORATADINA 100MG/100ML SOLUCION 30 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 33.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Lorotec",
+    "marca": "",
+    "categoria": "General",
+    "stock": 989,
+    "precioVenta": 25,
+    "codigo": null
+  },
+  {
+    "nombre": "Lorotec Ketorolaco 10mg",
+    "marca": "",
+    "categoria": "Medicamentos",
+    "stock": 98,
+    "precioVenta": 28,
+    "codigo": null
+  },
+  {
+    "nombre": "LOXCELL QUINFAMIDA / ALBENDAZOL 100/200MG PEDIATRICO SUSPENSION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 139.2,
+    "codigo": null
+  },
+  {
+    "nombre": "LOXCELL QUINFAMIDA / ALBENDAZOL 200/400MG JUNIOR SUSPENSION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 139.2,
+    "codigo": null
+  },
+  {
+    "nombre": "LOXCELL QUINFAMIDA / ALBENDAZOL 300/400MG 1 TABLETA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 150.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MAGALDRATO/DIMETICONA 8G/1G/100ML 250ML",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 140.8,
+    "codigo": null
+  },
+  {
+    "nombre": "MAGALDRATO/DIMETICONA 8G/1G/100ML TAKEDA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 286.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Malival Indometacina 25mg 30 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 180,
+    "codigo": null
+  },
+  {
+    "nombre": "Mamila Jaloma 12pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Marfil Grande 12pzs Mod524",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "MASCARILLA FACIAL ORO ETERNAL SECRET 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Belleza",
+    "stock": 0,
+    "precioVenta": 62.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MATRICARIA 0.25MG/1ML RECUTITA SOLUCION OFTALMICA 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oftalmológico",
+    "stock": 0,
+    "precioVenta": 86.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Mavicam Meloxicam",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "Maviglin 500mg/5mg 60 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "MEBENDAZOL 100 MG 6 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 27.2,
+    "codigo": null
+  },
+  {
+    "nombre": "MEDIPIOX SOLUCION 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Piojos",
+    "stock": 0,
+    "precioVenta": 235.2,
+    "codigo": null
+  },
+  {
+    "nombre": "MEDROXIPROGESTERONA / ESTRADIOL SOLUCION INYECTABLE SIN JERINGA 1 AMPOLLETA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 105.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Mejoral 500",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 42,
+    "codigo": null
+  },
+  {
+    "nombre": "Mejoralito",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "MELENA DE LEON / L TIROSINA/VITAMINA B1/B12 60 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Memoria y rendimiento",
+    "stock": 0,
+    "precioVenta": 318.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Melox Plus Susp 360ml Menta",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 153,
+    "codigo": null
+  },
+  {
+    "nombre": "Mertodol Blanco Jaloma 40ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Mertodol Tintura Rojo Jaloma 40ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "METAMIZOL / BUTILHIOSCINA 250/10MG 10 GRAGEAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 57.6,
+    "codigo": null
+  },
+  {
+    "nombre": "METAMIZOL SODICO / BUTILHIOSCINA 2.5G/20MG SOLUCION INYECTABLE 1 AMPOLLETA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 62.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METAMIZOL SODICO 5G/100ML JARABE 120ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Analgésicos",
+    "stock": 0,
+    "precioVenta": 81.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Metamizol Sodico Inyec 1g/2ml 3amp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "Metamucil 10 Sobrs Naranja",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "METFORMINA / VILDAGLIPTINA 1000MG/50MG 30 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 686.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METFORMINA / VILDAGLIPTINA 850MG/50MG 30 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 638.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METFORMINA 500 MG 60 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 86.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METFORMINA 500 MG 60 TABLETAS LIBERACION PROLONGADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METFORMINA 850 MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 48,
+    "codigo": null
+  },
+  {
+    "nombre": "METFORMINA 850 MG 30 TABLETAS LIBERACION PROLONGADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METOCARBAMOL / IBUPROFENO 375/200MG 12 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 92.8,
+    "codigo": null
+  },
+  {
+    "nombre": "METOCLOPRAMIDA 10 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 20.8,
+    "codigo": null
+  },
+  {
+    "nombre": "METOCLOPRAMIDA 100MG/100ML SOLUCION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 273.6,
+    "codigo": null
+  },
+  {
+    "nombre": "METOTREXATO SODICO 2.5 MG 50 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oncológico",
+    "stock": 0,
+    "precioVenta": 608,
+    "codigo": null
+  },
+  {
+    "nombre": "METRONIDAZOL / CENTELLA ASIATICA / NITROFURAL 12 OVULOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 244.8,
+    "codigo": null
+  },
+  {
+    "nombre": "METRONIDAZOL / DIYODOHIDROXIQUINOLEINA 400/200MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METRONIDAZOL / DIYODOHIDROXIQUINOLEINA SUSPENSION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 105.6,
+    "codigo": null
+  },
+  {
+    "nombre": "METRONIDAZOL / MICONAZOL 7 OVULOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antimicótico",
+    "stock": 0,
+    "precioVenta": 270.4,
+    "codigo": null
+  },
+  {
+    "nombre": "METRONIDAZOL 2.5GR/100ML SUSPENSION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "METRONIDAZOL 500 MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 44.8,
+    "codigo": null
+  },
+  {
+    "nombre": "METRONIDAZOL 5GR/100ML SUSPENSION 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 49.6,
+    "codigo": null
+  },
+  {
+    "nombre": "MINOXIDIL 2GR/100ML SOLUCION 60ML",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 238.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MINOXIDIL SOLUCION 5GR/100ML 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 398.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MOMETASONA 50 MCG PEDIATRICO SPRAY NASAL 60 DOSIS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antialérgico",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MOMETASONA FUROATO 0.1G/100G 30GR UNGÜENTO",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 160,
+    "codigo": null
+  },
+  {
+    "nombre": "MONTELUKAST / LEVOCETIRIZINA 10/5MG 14 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 974.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MONTELUKAST 10 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 318.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MONTELUKAST 5 MG 20 TABLETAS MASTICABLES",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "MONTELUKAST GRANULADO 10 SOBRES 4 MG",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 142.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Moxifloxacino 400mg 7 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 205,
+    "codigo": null
+  },
+  {
+    "nombre": "Mucoangin 18 Tab Menta",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "MUPIROCINA 2% UNGÜENTO 15 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 134.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Nalixone 500mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 105,
+    "codigo": null
+  },
+  {
+    "nombre": "Natrazim 40mg 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "Neokap-Lf 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "Neomelubrina Jarabe 100ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 155,
+    "codigo": null
+  },
+  {
+    "nombre": "Neomelubrina Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "NEOMICINA .733 GR / CAOLIN 10 GR/ PECTINA .7 GR SUSPENSION 75 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 57.6,
+    "codigo": null
+  },
+  {
+    "nombre": "NEOMICINA / CAOLIN / PECTINA 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 92.8,
+    "codigo": null
+  },
+  {
+    "nombre": "NEOMICINA / CAOLIN / PECTINA SUSPENSION 1 PZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 116.8,
+    "codigo": null
+  },
+  {
+    "nombre": "NEOMICINA / RETINOL (VITAMINA A) UNGÜENTO 28 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 49.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Neurobion 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Next 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Next 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 988,
+    "precioVenta": 78,
+    "codigo": null
+  },
+  {
+    "nombre": "NIFUROXAZIDA 400 MG 16 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 89.6,
+    "codigo": null
+  },
+  {
+    "nombre": "NIFUROXAZIDA SUSPENSION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 91.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Nikzon 90 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Nineka 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "Nineka Suspension 75ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 49,
+    "codigo": null
+  },
+  {
+    "nombre": "NITAZOXANIDA 1200MG SUSPENSION 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "NITAZOXANIDA 500 MG 7 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "NOPAL / CHIA / LINAZA / PIÑA 350 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Laxante",
+    "stock": 0,
+    "precioVenta": 342.4,
+    "codigo": null
+  },
+  {
+    "nombre": "NORELGESTROMINA / ETINILESTRADIOL 6.0/0.60MG PARCHES 3 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 958.4,
+    "codigo": null
+  },
+  {
+    "nombre": "NORETISTERONA / ESTRADIOL 50/5MG/1ML SOLUCION INYECTABLE 1 AMPOLLETA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonceptivo",
+    "stock": 0,
+    "precioVenta": 100.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Normex Leche De Magnesia 180ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "OFLOXACINO 400 MG 8 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antibiótico",
+    "stock": 0,
+    "precioVenta": 148.8,
+    "codigo": null
+  },
+  {
+    "nombre": "OMEPRAZOL / BICARBONATO DE SODIO 20/1100MG 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 532.8,
+    "codigo": null
+  },
+  {
+    "nombre": "OMEPRAZOL 20 MG 14 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "OMEPRAZOL 20 MG 28 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 135.2,
+    "codigo": null
+  },
+  {
+    "nombre": "OMEPRAZOL 20 MG 60 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 190.4,
+    "codigo": null
+  },
+  {
+    "nombre": "OMEPRAZOL 40 MG 7 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 118.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Ordegan 10 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "ORLISTAT / L CARNITINA 60/200MG 21 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Peso y metabolismo",
+    "stock": 0,
+    "precioVenta": 382.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ORLISTAT / LEVOCARNITINA 120/200MG 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Peso y metabolismo",
+    "stock": 0,
+    "precioVenta": 670.4,
+    "codigo": null
+  },
+  {
+    "nombre": "ORLISTAT 120 MG 21 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Peso y metabolismo",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "OSELTAMIVIR 6MG/ML SUSPENSION 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiviral",
+    "stock": 0,
+    "precioVenta": 427.2,
+    "codigo": null
+  },
+  {
+    "nombre": "OSELTAMIVIR 75 MG 10 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiviral",
+    "stock": 0,
+    "precioVenta": 478.4,
+    "codigo": null
+  },
+  {
+    "nombre": "OXIDO DE ZINC 25GR/100GR PASTA 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 30.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Panclasa 20 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 275,
+    "codigo": null
+  },
+  {
+    "nombre": "PANCREATINA / BILIS DE BUEY / DIMETILPOLISILOXANO 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Colitis",
+    "stock": 0,
+    "precioVenta": 102.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PANCREATINA / SIMETICONA / EXTRACTO DE BILIS DE BUEY / CELULOSA 50 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Colitis",
+    "stock": 0,
+    "precioVenta": 270.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PANTENOL/ARNICA/CALENDULA POMADA 113GR SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Bebés - Cuidado del Bebé",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PANTOPRAZOL 20 MG 7 TABLETAS LIBERACION RETARDADA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Gastritis",
+    "stock": 0,
+    "precioVenta": 73.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Pantoprazol 20mg 7 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL / CAFEINA 500/50MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL / FENILEFRINA 500MG/10MG 1 SOBRE VICK PYRENA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Antigripal",
+    "stock": 0,
+    "precioVenta": 38.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL 100 MG/ML SOLUCION PEDIATRICA SABOR UVA TEMPRA 30 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL 3.2GR/100ML 120ML JARABE TEMPRA 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 291.2,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL 3.2GR/100ML PEDIATRICO JARABE 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 54.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL 500 MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 12.8,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL 650 MG 24 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 49.6,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL 750MG 10 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 28.8,
+    "codigo": null
+  },
+  {
+    "nombre": "PARACETAMOL/IBUPROFENO 325MG/200MG 20TABLETAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Analgésicos",
+    "stock": 0,
+    "precioVenta": 73.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Pasadores Jaloma 12pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "PASTA DENTAL 100% ORAL-B 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 40,
+    "codigo": null
+  },
+  {
+    "nombre": "PASTA DENTAL 3DWHITE ORAL-B 67 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 43.2,
+    "codigo": null
+  },
+  {
+    "nombre": "PASTA DENTAL NIÑOS ORAL-B 75 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 75.2,
+    "codigo": null
+  },
+  {
+    "nombre": "PASTA DENTAL ORAL-B 4 EN 1",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 51.2,
+    "codigo": null
+  },
+  {
+    "nombre": "PASTA DENTAL SENSIBILIDAD ORAL-B 75 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 105.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Pedialyte SR60 Manzana 500ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 32,
+    "codigo": null
+  },
+  {
+    "nombre": "Pegamento Escolar 25 Pza 20g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 85,
+    "codigo": null
+  },
+  {
+    "nombre": "PEINE PARA PIOJOS Y LIENDRES ACERO INOXIDABLE 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Piojos",
+    "stock": 0,
+    "precioVenta": 124.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Penticlox",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Pentiver Ampicilina Susp 500mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 45,
+    "codigo": null
+  },
+  {
+    "nombre": "PENTOXIFILINA 400 MG 30 TABLETAS LIBERACION PROLONGADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 139.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Pentoxifilina 400mg 30tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 115,
+    "codigo": null
+  },
+  {
+    "nombre": "Pentrexyl 500mg Ampicilina 28 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 245,
+    "codigo": null
+  },
+  {
+    "nombre": "Pepto Bismol 100 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Pepto Bismol 24 Tabs Tira",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Pepto Bismol Susp 118ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Permasharp C/24",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 168,
+    "codigo": null
+  },
+  {
+    "nombre": "PERMETRINA 5G/100ML SOLUCION 100ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Piojos",
+    "stock": 0,
+    "precioVenta": 177.6,
+    "codigo": null
+  },
+  {
+    "nombre": "PEZONERA DE SILICON SIMIBABY 2 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Bebés - Lactancia",
+    "stock": 0,
+    "precioVenta": 153.6,
+    "codigo": null
+  },
+  {
+    "nombre": "PICOSULFATO DE SODIO 5 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Laxante",
+    "stock": 0,
+    "precioVenta": 54.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PICOSULFATO DE SODIO SOLUCION GOTAS 30 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Laxante",
+    "stock": 0,
+    "precioVenta": 81.6,
+    "codigo": null
+  },
+  {
+    "nombre": "Pila AA Explosive",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Pila AAA Explosive",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "PILA ALCALINA LARGA DURACION AA 3+1 4 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 198.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PILA ALCALINA LARGA DURACION AAA 3+1 4 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 198.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Pila Panasonic AA",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 76,
+    "codigo": null
+  },
+  {
+    "nombre": "Pila Panasonic AAA",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 76,
+    "codigo": null
+  },
+  {
+    "nombre": "PINAVERIO / DIMETICONA 100/300 MG 16 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Colitis",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PIOGLITAZONA 30 MG 7 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Diabetes",
+    "stock": 0,
+    "precioVenta": 136,
+    "codigo": null
+  },
+  {
+    "nombre": "PIRFENIDONA 8G/100G 3.5GR GEL KITOSCELL",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Dermatológico",
+    "stock": 0,
+    "precioVenta": 158.42,
+    "codigo": null
+  },
+  {
+    "nombre": "PIROXICAM 0.5/100GR GEL 60 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 70.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Pluma Bic Azul 12 Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Pluma Bic Negro 12 Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Pluma Bic Rojo 12 Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "POLIMIXINA B / NEOMICINA / BACITRACINA UNGÜENTO 3.5GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Oftalmológico",
+    "stock": 0,
+    "precioVenta": 86.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Pomada De La Campana 35g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Pomada Labios Jaloma 60pzs Vitrolero",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "PRAVASTATINA 10 MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Hipolipemiante",
+    "stock": 0,
+    "precioVenta": 190.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PREGABALINA 150 MG 28 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Medicamentos éticos",
+    "stock": 0,
+    "precioVenta": 190.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PREGABALINA 75 MG PFIZER 14 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Medicamentos éticos",
+    "stock": 0,
+    "precioVenta": 254.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PREGABALINA 75MG 14 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Medicamentos éticos",
+    "stock": 0,
+    "precioVenta": 118.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Pro-Cold 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Pro-Cold 666 Exib 25 Carteras Con 8 Tabs C/U",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "PROBIOTICOS / PREBIOTICOS CAPSULAS RAPID-MT 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Peso y metabolismo",
+    "stock": 0,
+    "precioVenta": 374.42,
+    "codigo": null
+  },
+  {
+    "nombre": "PROBIOTICOS 6 LACTOBACILLUS SOBRES POLVO 6 SOBRES",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 137.6,
+    "codigo": null
+  },
+  {
+    "nombre": "PROBIOTICOS/PREBIOTICOS/ARANDANO/JAMAICA 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 526.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Prodolina 500mg 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "PROTECTORES PARA LACTANCIA PIEZAS SIMI BABY 24 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Bebés - Lactancia",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PROTEINA LOW CARB CHOCOLATE 450 GR X GEAR",
+    "marca": "Similares",
+    "categoria": "Deportistas - Proteínas",
+    "stock": 0,
+    "precioVenta": 502.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PROTEINA LOW CARB VAINILLA 450 GR X GEAR",
+    "marca": "Similares",
+    "categoria": "Deportistas - Proteínas",
+    "stock": 0,
+    "precioVenta": 502.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Proxalin",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "PRUEBA DE EMBARAZO ANÁLOGA",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "PRUEBA DE EMBARAZO ANÁLOGA SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "PRUEBA DE EMBARAZO DIGITAL CLEAR BLUE",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 342.42,
+    "codigo": null
+  },
+  {
+    "nombre": "PRUEBA DE EMBARAZO DIGITAL SIMIBABY",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 222.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Prueba De Embarazo Meditest 1pza",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "PRUEBA RAPIDA DE ANTIGENOS COVID-19 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 238.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PRUEBA RAPIDA INFLUENZA TIPO A Y B 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 329.6,
+    "codigo": null
+  },
+  {
+    "nombre": "PSYLLIUM PLANTAGO POLVO NATURAL 400 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Laxante",
+    "stock": 0,
+    "precioVenta": 246.4,
+    "codigo": null
+  },
+  {
+    "nombre": "PSYLLIUM PLANTAGO POLVO SABOR NARANJA PIÑA 400 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Laxante",
+    "stock": 0,
+    "precioVenta": 246.4,
+    "codigo": null
+  },
+  {
+    "nombre": "QG5 30 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 252,
+    "codigo": null
+  },
+  {
+    "nombre": "QUETIAPINA 100 MG 60 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Enfermedades mentales",
+    "stock": 0,
+    "precioVenta": 478.4,
+    "codigo": null
+  },
+  {
+    "nombre": "QUETIAPINA 25 MG 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Enfermedades mentales",
+    "stock": 0,
+    "precioVenta": 430.4,
+    "codigo": null
+  },
+  {
+    "nombre": "QUINFAMIDA / ALBENDAZOL 100/200MG PEDIATRICO SUSPENSION 10 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 57.6,
+    "codigo": null
+  },
+  {
+    "nombre": "QUINFAMIDA / ALBENDAZOL 150/200MG 2 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 70.4,
+    "codigo": null
+  },
+  {
+    "nombre": "QUINFAMIDA / ALBENDAZOL 200/400MG JUNIOR SUSPENSION 20 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antiparasitario",
+    "stock": 0,
+    "precioVenta": 91.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Quitadol 500mg Paracetamol 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 997,
+    "precioVenta": 13,
+    "codigo": null
+  },
+  {
+    "nombre": "Quitadol 750mg Paracetamol 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "RACECADOTRILO 100MG 9 CAPSULAS HIDRASEC",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 448,
+    "codigo": null
+  },
+  {
+    "nombre": "RACECADOTRILO 10MG POLVO 18 SOBRES HIDRASEC",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 334.4,
+    "codigo": null
+  },
+  {
+    "nombre": "RACECADOTRILO 30MG POLVO 18SOBRES HIDRASEC",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 366.4,
+    "codigo": null
+  },
+  {
+    "nombre": "RASTRILLO CABALLERO TRIPLE HOJA CON BANDA LUBRICANTE PIEL SENSIBLE COLOR VERDE 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 43.22,
+    "codigo": null
+  },
+  {
+    "nombre": "RASTRILLO PARA CABALLERO TRIPLE HOJA 2 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 78.4,
+    "codigo": null
+  },
+  {
+    "nombre": "RASTRILLO PARA CABALLERO TRIPLE HOJA CABEZA MOVIL 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 38.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Redoxon 1g 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 132,
+    "codigo": null
+  },
+  {
+    "nombre": "Remacol 23g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "REPELENTE DE INSECTOS EN AEROSOL DIETIL-META-TOLUAMIDA (DEET) 170 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Repelentes",
+    "stock": 0,
+    "precioVenta": 142.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Reumophan 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 140,
+    "codigo": null
+  },
+  {
+    "nombre": "RIBAVIRINA 400 MG 18 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antiviral",
+    "stock": 0,
+    "precioVenta": 436.8,
+    "codigo": null
+  },
+  {
+    "nombre": "RISPERIDONA 2 MG 40 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Enfermedades mentales",
+    "stock": 0,
+    "precioVenta": 318.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Rocainol 45g UngÜento",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 72,
+    "codigo": null
+  },
+  {
+    "nombre": "Rosatil Oxido De Zinc 30g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 24,
+    "codigo": null
+  },
+  {
+    "nombre": "Rosel 24 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 50,
+    "codigo": null
+  },
+  {
+    "nombre": "RUSCUS / HESPERIDINA/ ACIDO ASCORBICO 150/150/100MG 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 390.4,
+    "codigo": null
+  },
+  {
+    "nombre": "SACCHAROMYCES BOULARDI POLVO 6 SOBRES SIMI BABY",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Sal De Uvas 50 Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Sal De Uvas Picot 10 Sobres",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "SALBUTAMOL 40MG/100ML JARABE 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 62.4,
+    "codigo": null
+  },
+  {
+    "nombre": "SALBUTAMOL 5MG/1ML SOLUCION PARA NEBULIZACION 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 131.2,
+    "codigo": null
+  },
+  {
+    "nombre": "SALBUTAMOL AEROSOL PARA INHALACION .1328GR 200 DOSIS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 102.4,
+    "codigo": null
+  },
+  {
+    "nombre": "SALES DE POTASIO 50TABLETAS EFERVESCENTES",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Medicamentos éticos",
+    "stock": 0,
+    "precioVenta": 211.2,
+    "codigo": null
+  },
+  {
+    "nombre": "Saludol Gel",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 68,
+    "codigo": null
+  },
+  {
+    "nombre": "Saridon Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 118,
+    "codigo": null
+  },
+  {
+    "nombre": "Sarox 20mg Omeprazol 14 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Scabisan Crema 60g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 215,
+    "codigo": null
+  },
+  {
+    "nombre": "Scarpett",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 116,
+    "codigo": null
+  },
+  {
+    "nombre": "Sedalmerck",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 142,
+    "codigo": null
+  },
+  {
+    "nombre": "SENOSIDOS AB 8.6MG 60 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Laxante",
+    "stock": 0,
+    "precioVenta": 86.4,
+    "codigo": null
+  },
+  {
+    "nombre": "SHAMPOO CON VINAGRE DE QUASSIA PARA PIOJOS 120 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Piojos",
+    "stock": 0,
+    "precioVenta": 110.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Shampoo Head & Shoulders Exb 24pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "Shampoo Ricitos De Oro 100ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Shampoo Sedal Exb 24pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "SHOT WELLMUNE 60 ML SABOR MANDARINA 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Sistema inmune",
+    "stock": 0,
+    "precioVenta": 51.2,
+    "codigo": null
+  },
+  {
+    "nombre": "SHOT WELLMUNE INFANTIL NARANJA 60 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Sistema inmune",
+    "stock": 0,
+    "precioVenta": 44.8,
+    "codigo": null
+  },
+  {
+    "nombre": "SILDENAFIL 100 MG 4 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Disfunción eréctil",
+    "stock": 0,
+    "precioVenta": 238.4,
+    "codigo": null
+  },
+  {
+    "nombre": "SIMIANGO VITAMINAS / MINERALES / EXTRACTO DE MANGOSTINO POLVO PARA PREPARAR BEBIDA 1 SOBRE",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Multivitamínicos",
+    "stock": 0,
+    "precioVenta": 18.4,
+    "codigo": null
+  },
+  {
+    "nombre": "simibaby_toallas_humedas_p_bebe_80_pzas_simi_baby",
+    "marca": "Similares",
+    "categoria": "Bebés - Cuidado del Bebé",
+    "stock": 0,
+    "precioVenta": 75.22,
+    "codigo": null
+  },
+  {
+    "nombre": "SIMICOLAGENO 60 CAPSULA GELATINA BLANDA",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Belleza",
+    "stock": 0,
+    "precioVenta": 81.6,
+    "codigo": null
+  },
+  {
+    "nombre": "SIMIKRILL 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Circulatorio",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Sinuberase",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "SINUBERASE PROBIOTICOS BACILLUS COAGULANS 1 MILLON UFC 48 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 318.4,
+    "codigo": null
+  },
+  {
+    "nombre": "SINUBERASE PROBIOTICOS EN SUSPENSION BACILLUS CLAUSII 4 BILLONES UFC 10 AMPOLLETAS DE 5 ML",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Lactobacilos",
+    "stock": 0,
+    "precioVenta": 358.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Solucion Salina",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "SUBSALICILATO DE BISMUTO 24 TABLETAS MASTICABLES",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 113.6,
+    "codigo": null
+  },
+  {
+    "nombre": "SUBSALICILATO DE BISMUTO PEPTO BISMOL 4 TABLETAS MASTICABLES",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 32,
+    "codigo": null
+  },
+  {
+    "nombre": "SUBSALICILATO DE BISMUTO SUSPENSION PEPTO BISMOL PLUS 118 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Gastrointestinal - Antidiarreico",
+    "stock": 0,
+    "precioVenta": 121.6,
+    "codigo": null
+  },
+  {
+    "nombre": "SUERO (SERUM) CON RETINOL 0.15% ETERNAL SECRET 30ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Cuidado Piel - Belleza",
+    "stock": 0,
+    "precioVenta": 206.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Sulfatiazol 25 Sobres 2g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Super Glue 12pz 3g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "SUPEROXIDODISMUTASA 30 CAPSULAS ETERNAL SECRET",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Belleza",
+    "stock": 0,
+    "precioVenta": 510.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Syncol 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 148,
+    "codigo": null
+  },
+  {
+    "nombre": "Syncol Max 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Tabcin 500 Eferv Exib 60 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Tabcin 500 Efervecente 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Tabcin Active",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Tabcin Active",
+    "marca": "",
+    "categoria": "Medicamentos",
+    "stock": 989,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "Tabcin Eferv Exib 60 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Tabcin Efervercente 12 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Tabcin Noche",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 97,
+    "precioVenta": 70,
+    "codigo": null
+  },
+  {
+    "nombre": "TABLETAS LIMPIADORAS EFERVESCENTES COREGA 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Higiene",
+    "stock": 0,
+    "precioVenta": 134.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Talco Dos Caras 125g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Tamex 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Te De Manzanilla 25 Sobres",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 46,
+    "codigo": null
+  },
+  {
+    "nombre": "Tela Adhesiva 1.25 Cm Jaloma",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "TELMISARTAN / HIDROCLOROTIAZIDA 80 /12.5 MG 14 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antihipertensivo",
+    "stock": 0,
+    "precioVenta": 212.8,
+    "codigo": null
+  },
+  {
+    "nombre": "TELMISARTAN 40 MG 14 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antihipertensivo",
+    "stock": 0,
+    "precioVenta": 142.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TEOFILINA / AMBROXOL .7/.15 GR SOLUCION 150 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Aparato respiratorio",
+    "stock": 0,
+    "precioVenta": 94.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TERMOMETRO DIGITAL 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Diagnóstico",
+    "stock": 0,
+    "precioVenta": 100.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Termometro Digital Neutek",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Terramicina",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 265,
+    "codigo": null
+  },
+  {
+    "nombre": "Tesalon Benzonato Adulto 20 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 98,
+    "precioVenta": 145,
+    "codigo": null
+  },
+  {
+    "nombre": "TESTOSTERONA 250 MG/1 ML SOLUCION INYECTABLE 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Medicamentos éticos",
+    "stock": 0,
+    "precioVenta": 670.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Theraflu Day Time 6 Sobres",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 98,
+    "codigo": null
+  },
+  {
+    "nombre": "Threchop 20 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Tintura De Yodo",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS 50+25PZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 766.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS ACCU-CHEK ACTIVE 25 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 390.42,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS GMATE 25 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS GMATE 50 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 441.6,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS ON CALL PLUS 50 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 448,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS ONE TOUCH 10 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 236.8,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS ONE TOUCH 50 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 766.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TIRAS REACTIVAS SELECT 50 PIEZAS",
+    "marca": "Similares",
+    "categoria": "Diabetes - Tiras reactivas",
+    "stock": 0,
+    "precioVenta": 766.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TOPIRAMATO 25 MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 124.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Topron 400mg 16 Caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 179,
+    "codigo": null
+  },
+  {
+    "nombre": "Treda",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Tribedoce Dx 3 Ampolletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 95,
+    "codigo": null
+  },
+  {
+    "nombre": "TRIBENOSIDO / LIDOCAINA 5GR/2GR 30GR CREMA",
+    "marca": "Similares",
+    "categoria": "Analgesia - Antiinflamatorios",
+    "stock": 0,
+    "precioVenta": 190.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TRIMEBUTINA 200 MG 40 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 134.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TRIMEBUTINA SUSPENSION 2G/100ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 121.6,
+    "codigo": null
+  },
+  {
+    "nombre": "TRIMEBUTINA/SIMETICONA 0.600/0.600 GR SUSPENSION 26 ML",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TRIMEBUTINA/SIMETICONA 100/37.5 MG 20 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 302.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TRIMEBUTINA/SIMETICONA 200/75 MG 24 COMPRIMIDOS CARNOT",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Funcionamiento gastrointestinal",
+    "stock": 0,
+    "precioVenta": 670.4,
+    "codigo": null
+  },
+  {
+    "nombre": "TRITICUM VULGARE / FENOXIETANOL 15G/1G/100GR CREMA 10 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Dermatológico",
+    "stock": 0,
+    "precioVenta": 385.6,
+    "codigo": null
+  },
+  {
+    "nombre": "TROXERUTINA/CUMARINA 30 TABLETAS VENALOT DEPOT",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Flebotónico",
+    "stock": 0,
+    "precioVenta": 1054.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Tukol-D Adulto 125ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Tukol-D Infantil 125ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Unesia Crema",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 132,
+    "codigo": null
+  },
+  {
+    "nombre": "Unguento 666 Lata 9gm",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Urezol 100mg 20 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "VALPROATO DE MAGNESIO 40 TABLETAS LIBERACION RETARDADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 132.8,
+    "codigo": null
+  },
+  {
+    "nombre": "VALPROATO DE MAGNESIO 400MG 20 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 182.4,
+    "codigo": null
+  },
+  {
+    "nombre": "VALPROATO DE MAGNESIO 600MG 30 TABLETAS LIBERACION PROLONGADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 398.4,
+    "codigo": null
+  },
+  {
+    "nombre": "VALPROATO DE MAGNESIO SOLUCION 40 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 158.4,
+    "codigo": null
+  },
+  {
+    "nombre": "VALPROATO SEMISODICO (EQUIVALENTE A 500MG DE ACIDO VALPROICO) 30 TABLETAS LIBERACION RETARDADA",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Anticonvulsivo",
+    "stock": 0,
+    "precioVenta": 430.4,
+    "codigo": null
+  },
+  {
+    "nombre": "VALSARTAN / AMLODIPINO 160/5 MG 14 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antihipertensivo",
+    "stock": 0,
+    "precioVenta": 1182.4,
+    "codigo": null
+  },
+  {
+    "nombre": "VALSARTAN / HIDROCLOROTIAZIDA 160/12.5MG 14 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antihipertensivo",
+    "stock": 0,
+    "precioVenta": 318.4,
+    "codigo": null
+  },
+  {
+    "nombre": "VALSARTAN 160 MG 14 COMPRIMIDOS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antihipertensivo",
+    "stock": 0,
+    "precioVenta": 294.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Vaporrub 12",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 99,
+    "precioVenta": 336,
+    "codigo": null
+  },
+  {
+    "nombre": "Vaselina Blanca 60 Grms",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 25,
+    "codigo": null
+  },
+  {
+    "nombre": "VASELINA PARA BEBE 60 GR 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Bebés - Cuidado del Bebé",
+    "stock": 0,
+    "precioVenta": 36.8,
+    "codigo": null
+  },
+  {
+    "nombre": "Vaso De Analisis",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Velatuss Levodropropizina 60mg 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "VENDA DE ALTA COMPRESION 10CM X 5MTS 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Higiene - Curación",
+    "stock": 0,
+    "precioVenta": 78.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Venda Quirmex 7.5cm X 5m",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Venda Vendalastic 10cm X 5m",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Venda Vendalastic 15cm X 5m",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Venda Vendalastic 25cm X 5m",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Venda Vendalastic 5cm X 5m",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Venda Vendalastic 7cm X 5m",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vengesic 20 grageas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 75,
+    "codigo": null
+  },
+  {
+    "nombre": "Vericort Dexametasona 3 Amp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Vermox Infantil",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 136,
+    "codigo": null
+  },
+  {
+    "nombre": "Vermox Mebendazol 500mg 1 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 125,
+    "codigo": null
+  },
+  {
+    "nombre": "Versalver Valsartan 160mg 14tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 120,
+    "codigo": null
+  },
+  {
+    "nombre": "Versalver Valsartan 80mg 30 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 108,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick 44 Exp Infantil 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick 44 Jbe Cereza 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Act7 10 Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Baby Balm 50g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Drops 125 Pzs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Inhalador 1pz",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Jbe Miel 120ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Pastillas 40g 20 Pastillas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Pyrena Noche 5 Sobres",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick Spray Primera Defensa",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick VapoRub Frasco 100g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick VapoRub Frasco 50g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vick VapoRub Lata 12gms",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 29,
+    "codigo": null
+  },
+  {
+    "nombre": "Violeta Genciana Jaloma 40ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vitacilina Bebe 110gm",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vitacilina Bebe 50g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vitacilina Unguento 16g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "VITAMINA D3 (COLECALCIFEROL) 4000UI 30 TABLETAS MASTICABLES",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Sistema inmune",
+    "stock": 0,
+    "precioVenta": 238.4,
+    "codigo": null
+  },
+  {
+    "nombre": "VITAMINA D3+VITAMINA K2 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Analgesia - Huesos y articulaciones",
+    "stock": 0,
+    "precioVenta": 152,
+    "codigo": null
+  },
+  {
+    "nombre": "VITAMINA E 400 MG 30 CAPSULAS",
+    "marca": "Similares",
+    "categoria": "Vitaminas - Belleza",
+    "stock": 0,
+    "precioVenta": 75.2,
+    "codigo": null
+  },
+  {
+    "nombre": "VITAMINAS A / D / C INFANTIL SOLUCION GOTAS 25 ML 1 PIEZA",
+    "marca": "Similares",
+    "categoria": "Aparato respiratorio - Sistema inmune",
+    "stock": 0,
+    "precioVenta": 57.6,
+    "codigo": null
+  },
+  {
+    "nombre": "VITAMINAS/ HIERRO 30 TABLETAS",
+    "marca": "Similares",
+    "categoria": "Medicamentos - Antianémico",
+    "stock": 0,
+    "precioVenta": 718.4,
+    "codigo": null
+  },
+  {
+    "nombre": "Vo-Remi Gotas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vo-Remi Tabletas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Volfenac Inyec 4 Amp",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Vomisin Gotas 15ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Wadil 30 Tabas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 55,
+    "codigo": null
+  },
+  {
+    "nombre": "Wadil 60 tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 68,
+    "codigo": null
+  },
+  {
+    "nombre": "Wamindel Paracetamol Inf 120ml Jbe",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 35,
+    "codigo": null
+  },
+  {
+    "nombre": "Wamindel Paracetamol Ped Gotas 15 Ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 28,
+    "codigo": null
+  },
+  {
+    "nombre": "Wamindel Ped Gotas 30ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 30,
+    "codigo": null
+  },
+  {
+    "nombre": "Wermy Gabapentina 300mg 30caps",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 80,
+    "codigo": null
+  },
+  {
+    "nombre": "Westepiron Metamizol 10 Tabl 500mg",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 20,
+    "codigo": null
+  },
+  {
+    "nombre": "X Ray 40 Capsulas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "X Ray Gel 30g",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "X-TRID Antigripal 12 Cap",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Xl-3 Antigripal 10 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Xl-3 VR 24 Tabs",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 0,
+    "codigo": null
+  },
+  {
+    "nombre": "Xl3 extra",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 97,
+    "precioVenta": 60,
+    "codigo": null
+  },
+  {
+    "nombre": "Xl3 vr",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 100,
+    "precioVenta": 90,
+    "codigo": null
+  },
+  {
+    "nombre": "Yasmin Tabas",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 390,
+    "codigo": null
+  },
+  {
+    "nombre": "Zentel Albendazol 10 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 255,
+    "codigo": null
+  },
+  {
+    "nombre": "Zertalin Azitromicina 500 Mg 3 Tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 65,
+    "codigo": null
+  },
+  {
+    "nombre": "Zimeton 20tab",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 105,
+    "codigo": null
+  },
+  {
+    "nombre": "Zisual -C 30g Unguento",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 110,
+    "codigo": null
+  },
+  {
+    "nombre": "Zyxem Gotas 20ml",
+    "marca": "PharmaPOS",
+    "categoria": "General",
+    "stock": 0,
+    "precioVenta": 225,
+    "codigo": null
+  }
+]
